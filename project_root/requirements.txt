@@ -1,0 +1,40 @@
+# requirements.txt
+# Complete dependency list (covering all four modules)
+
+# Model and Reasoning
+torch>=2.0.0
+transformers>=4.34.0
+accelerate
+sentencepiece
+
+# Stable Diffusion
+--extra-index-url https://download.pytorch.org/whl/cu121  # It can be modified according to CUDA
+diffusers>=0.23.0
+
+# Bark Model (Speech)
+bark==0.0.1a
+
+# Picture processing
+Pillow>=10.0.0 
+
+# Audio processing
+numpy>=1.23.0
+scipy>=1.10.0
+librosa=0.10.0
+soundfile>=0.12.0
+
+# Text processing and cleaning
+nltk>=3.8.1
+re
+
+# Progress and data processing
+tqdm
+
+# Translate
+deep-translator
+
+# Dialogue generation (Text generation)
+ollama>=0.1.0  
+
+# System tools
+requests

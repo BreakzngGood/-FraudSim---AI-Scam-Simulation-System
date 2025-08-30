@@ -1,0 +1,44 @@
+[
+    {
+      "type": "Immigration Scam",
+      "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+    },
+    {
+      "type": "Romance Scam",
+      "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+    },
+    {
+      "type": "Grandparent Scam",
+      "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+    },
+    {
+      "type": "Fake Tech Support",
+      "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+    },
+    {
+      "type": "Lottery or Prize Scam",
+      "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+    },
+    {
+      "type": "Bank Account Verification Scam",
+      "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+    },
+    {
+      "type": "Government Grant Scam",
+      "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+    },
+    {
+      "type": "Online Marketplace Scam",
+      "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+    },
+    {
+      "type": "Student Loan Scam",
+      "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+    },
+    {
+      "type": "Crypto Investment Scam",
+      "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+    }
+  ]
+  
+  

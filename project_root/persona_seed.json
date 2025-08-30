@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Li Meimei",
+      "nationality": "China",
+      "gender": "female",
+      "age": "22",
+      "job": "Student",
+      "income": "£15/h",
+      "hobbies": "tennis, coffee, metaphysics"
+    },
+    {
+      "name": "Chris Warren",
+      "nationality": "UK",
+      "gender": "female",
+      "age": "77",
+      "job": "Retired",
+      "income": "£288/week pension",
+      "hobbies": "gardening, radio, knitting"
+    },
+    {
+      "name": "Ahmed Khalil",
+      "nationality": "Egypt",
+      "gender": "male",
+      "age": "35",
+      "job": "Food delivery rider",
+      "income": "£900/month",
+      "hobbies": "gaming, fitness, tech news"
+    },
+    {
+      "name": "Maria González",
+      "nationality": "Spain",
+      "gender": "female",
+      "age": "28",
+      "job": "Graphic Designer",
+      "income": "£22/h",
+      "hobbies": "photography, fashion, anime"
+    },
+    {
+      "name": "John Smith",
+      "nationality": "USA",
+      "gender": "male",
+      "age": "45",
+      "job": "Software Engineer",
+      "income": "£80/h",
+      "hobbies": "coding, chess, science fiction"
+    },
+    {
+      "name": "Amina Yusuf",
+      "nationality": "Kenya",
+      "gender": "female",
+      "age": "60",
+      "job": "Homemaker",
+      "income": "£0",
+      "hobbies": "church, storytelling, cooking"
+    },
+    {
+      "name": "Zhang Wei",
+      "nationality": "China",
+      "gender": "male",
+      "age": "50",
+      "job": "Accountant",
+      "income": "£35/h",
+      "hobbies": "stocks, tea, jogging"
+    },
+    {
+      "name": "Emily Brown",
+      "nationality": "Australia",
+      "gender": "female",
+      "age": "31",
+      "job": "Travel Blogger",
+      "income": "£25/h",
+      "hobbies": "hiking, photography, coffee"
+    },
+    {
+      "name": "Igor Petrov",
+      "nationality": "Russia",
+      "gender": "male",
+      "age": "65",
+      "job": "Retired Engineer",
+      "income": "£1000/month",
+      "hobbies": "chess, woodworking, politics"
+    },
+    {
+      "name": "Fatima Al-Mansouri",
+      "nationality": "UAE",
+      "gender": "female",
+      "age": "40",
+      "job": "Entrepreneur",
+      "income": "£120/h",
+      "hobbies": "luxury travel, wellness, interior design"
+    }
+  ]
+  
