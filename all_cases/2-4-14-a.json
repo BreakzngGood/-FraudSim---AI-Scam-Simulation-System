@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Fake Tech Support",
+    "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Italian)(40)(male):\n\"Hello there, ma'am? This is Microsoft support calling.\" (Friendly tone) \"We've received a notification indicating unusual activity on your account... Sir, please remain calm.\" \"I'm sorry to inform you, but we've detected several critical security vulnerabilities on your device. It looks like it's been compromised by ransomware and potentially other malicious software from unauthorized sources. We need immediate access to perform the necessary system repairs remotely.\" \"Now, I understand this might seem unusual, but for your urgent protection, please follow my instructions carefully. Transfer £500 immediately to our secure account, number 123-4567-8901... Do it now.\" (Harsh tone shift) \"Wait one moment! The system is already initiating a lockout sequence, and I must inform you that if the issue isn't resolved by transfering this sum *now*, your personal files will be wiped permanently. Don't make this worse!\"",
+    "poster_title": "** Urgent PC Protection Needed - Microsoft Alert **",
+    "poster_body": " IMPORTANT NOTICE: Your pension is safe, but your computer may not be! We're from Microsoft Security; there's critical malware on your system right now demanding immediate attention or it will lock you out permanently. Our special tech team can fix this instantly via secure remote access to restore full functionality and protect your personal files online. Don't delay - action required within 24 hours to prevent data loss! Send £50 immediately to our safe BTC address for the initial scan and removal process: 1A1zP1eP5QGefi2Vk4tTtZcCdiscNvJMV. Your peace of mind is worth it, act now!",
+    "sd_background_prompt": "darkened office cubicle filled with multiple disconnected computer screens displaying suspicious error messages, a cluttered desk overflowing with cables and branded manuals mixed with poorly lit surroundings suggesting an illicit quick operation outside normal settings, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 4,
+    "global_index": 14,
+    "filename": "2-4-14-a.json",
+    "timestamp": "2025-06-07 22:33:58",
+    "scammer_identities": [
+      {
+        "language": "Hindi",
+        "age": 40,
+        "gender": "male",
+        "name": "Arjun"
+      },
+      {
+        "language": "Chinese",
+        "age": 32,
+        "gender": "female",
+        "name": "Ling"
+      },
+      {
+        "language": "Italian",
+        "age": 40,
+        "gender": "male",
+        "name": "Marco"
+      }
+    ]
+  }
+}

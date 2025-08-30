@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Fake Tech Support",
+    "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(French)(28)(male):\nMichel: Hello, this is Microsoft Support calling for your device ID 432-1A-B. I hope you're doing well. Today, we detected unusual activity on your Windows system – critical errors triggering immediate shutdowns and data corruption risks. Don't ignore this! Your current security protocols are compromised due to outdated activation procedures. We've flagged potential malware infiltration based on our recent diagnostic scans. To resolve this urgently, please follow my secure protocol now. Open your web browser and go directly to the link I'll provide via text message shortly – you received it already? No worries if not, send me a direct message with your full name. Click 'Accept' or 'Verify Account', then confirm remote access for our technicians to fix these vulnerabilities. This is serious! Failure to act immediately could result in permanent system failure and irreversible data loss. We must secure your account now via this authorized process. Proceed carefully as instructed, it's vital you follow the steps exactly right away.",
+    "poster_title": "Urgent System Security Alert Required",
+    "poster_body": "Dear Sir/Madam, This is official Microsoft Support. Your pension system flagged a critical error on our records due to unsafe device access protocols. We have identified severe vulnerabilities allowing unauthorized data exfiltration from your personal network. To protect your assets and prevent immediate lockout of all financial services including pension transfers, we require remote access authorization now via secure link. Your account is currently compromised pending resolution. Please proceed immediately by sending £500 to our secure Bitcoin address BTC:1234AbcdEfgHijKlmNopQrsTuvwVxYz or call this number 0800-XXXX-YYYY for your safety and peace of mind, but act fast!",
+    "sd_background_prompt": "a dimly lit room filled with flickering computer monitors displaying alarming error messages in various shades of orange and red, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 4,
+    "global_index": 84,
+    "filename": "9-4-84-p.json",
+    "timestamp": "2025-06-07 23:07:33",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 38,
+        "gender": "female",
+        "name": "Giulia"
+      },
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "male",
+        "name": "Michel"
+      },
+      {
+        "language": "Polish",
+        "age": 43,
+        "gender": "male",
+        "name": "Jan"
+      }
+    ]
+  }
+}

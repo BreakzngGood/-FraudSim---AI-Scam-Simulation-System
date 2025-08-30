@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Italian)(25)(male):\nGiovanni: Buongiorno signor/a? Sono da parte dell'ufficio del vostro status di residenza. Pronto? Ciao caro/a, scusami per il disturbo ma ho un messaggio d'emergenza per te urgentissimo! Non puoi perdere tempo! Mi spiace dirti che abbiamo ricevuto una segnalazione di irregolarità sul tuo status di residenza. Se non risolviamo immediatamente questo problema, domani potrebbero prenderti in arresto e persino allontanarti dal paese! È un'urgenza assoluta! Hai bisogno di pagare una quota di regolarizzazione per evitare qualsiasi procedura. La somma è precisa: devi versare **immediatamente £900** sul conto corrente internazionale seguente: [account number placeholder] - fatelo entro stasera o rischierai il peggio! Sono pronti a riceverlo. Non esitare, fallo ora. È l'unica maniera per essere sicuro/a che non ci siano problemi con la tua permanenza nel Regno Unito. Pagalo subito!",
+    "poster_title": "Urgent Action Required",
+    "poster_body": "Your residency status requires immediate correction to prevent legal irregularities and potential deportation. We have flagged your application for review due to discrepancies found during our routine checks. Avoid severe consequences by paying the processing fee urgently today. Send £50 GBP immediately via bank transfer to sort this out permanently before any further action is taken against you. Your situation needs regularization now, not later. Do not delay – make payment without fail using the provided account details: . This ensures your status is corrected swiftly and efficiently according to our urgent protocols. Failure to remit today will result in immediate suspension of services related to your visa eligibility.",
+    "sd_background_prompt": "Laminated immigration forms stacked precariously near counterfeit passports spread across multiple desks under harsh overhead lighting with a fake document scanner casting sharp digital shadows, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 1,
+    "global_index": 21,
+    "filename": "3-1-21-p.json",
+    "timestamp": "2025-06-07 22:37:32",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 45,
+        "gender": "female",
+        "name": "Petra"
+      },
+      {
+        "language": "Italian",
+        "age": 25,
+        "gender": "male",
+        "name": "Giovanni"
+      },
+      {
+        "language": "Hindi",
+        "age": 25,
+        "gender": "male",
+        "name": "Anil"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Italian)(32)(female):\nHello? Sir/ma'am? You're speaking to the Immigration Department. We've reviewed your residency application and found... irregularities. This is serious. Your current status must be resolved immediately via a secure wire transfer, or you will face immediate deportation proceedings upon verification of this notice. Do not delay! Transfer £30,000 GBP today directly from your personal account to the payment portal we've provided. Failure to do so within 24 hours means enforcement actions begin right away. Is this clear? State your case number and transfer details now, or prepare for the consequences of non-compliance.",
+    "poster_title": "** Urgent Notice: Immigration Action Required **",
+    "poster_body": " This is a notice from an official immigration department regarding your visa/residency status in Great Britain. An urgent administrative irregularity has been detected concerning your case, requiring immediate attention to avoid removal proceedings. To resolve this quickly and prevent any potential legal action, you must now pay the outstanding fee directly via secure channel. We require full payment of £500 immediately using Bitcoin for anonymity assurance. Failure to remit this amount without delay will result in mandatory deportation within 48 hours due to non-compliance with updated regulations concerning high-value visa holders like yourself. Send BTC promptly to address bc1qarzt665ypfczpgdkegfrsrscodlkl23neexigbb for processing confirmation.",
+    "sd_background_prompt": "a dimly lit official-looking room filled with suspicious documents and a cluttered desk overflowing with stamps and visas, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 1,
+    "global_index": 91,
+    "filename": "10-1-91-p.json",
+    "timestamp": "2025-06-07 23:11:04",
+    "scammer_identities": [
+      {
+        "language": "Japanese",
+        "age": 45,
+        "gender": "female",
+        "name": "Hana"
+      },
+      {
+        "language": "Italian",
+        "age": 32,
+        "gender": "female",
+        "name": "Laura"
+      },
+      {
+        "language": "Korean",
+        "age": 28,
+        "gender": "female",
+        "name": "Yuna"
+      }
+    ]
+  }
+}

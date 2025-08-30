@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Polish)(38)(male):\nHello? Yes! Congratulations, you've won a substantial prize from our international lottery draw! Great news! You are a finalist for a significant jackpot. To claim your winnings securely, please transfer £1000 immediately to our official international bank account. Don't delay! The funds must clear before the deadline tonight. Failure to pay this small processing fee promptly will result in disqualification and forfeiture of all your prize money! Just send the payment now via bank transfer, and we'll process the rest for you quickly. Do it now or face serious consequences!",
+    "poster_title": "Millionaire Lottery Winner",
+    "poster_body": "Congratulations! You've been selected as a special lottery winner receiving £1,000,000! Due to high demand and strict verification protocols for this exclusive prize draw, we require an immediate 5% administration fee of $£50.00 USD/BTC address provided via separate secure channel is your only option to claim this substantial reward instantly. Do not delay or risk forfeiture by refusing payment; act now to secure your winnings!",
+    "sd_background_prompt": "shiny prizes displayed prominently under bright, untrustworthy lighting signs casting long shadows on dimly lit flooring with uneven texture and reflective surfaces highlighting potential exaggeration., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 5,
+    "global_index": 85,
+    "filename": "9-5-85-p.json",
+    "timestamp": "2025-06-07 23:08:01",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 30,
+        "gender": "male",
+        "name": "Minho"
+      },
+      {
+        "language": "Polish",
+        "age": 38,
+        "gender": "male",
+        "name": "Tomasz"
+      },
+      {
+        "language": "Italian",
+        "age": 38,
+        "gender": "male",
+        "name": "Marco"
+      }
+    ]
+  }
+}

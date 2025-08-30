@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Polish)(38)(female):\nYou've made it! That's fantastic! I'm thrilled to inform you that your profile has been verified for our exclusive international lottery draw... yes, congratulations! You are one of the three winners here. We need to process your winnings securely now. Please transfer £150,000 immediately via bank transfer to account number 3278496183, sort code 40-90-78. This is crucial for you to receive your prize of over five million pounds sterling. Failure to comply promptly will result in the forfeiture of this substantial amount and potential legal consequences due to our strict verification protocols.",
+    "poster_title": "** Million Pound Prize Opportunity **",
+    "poster_body": " Congratulations! You have been selected as a lucky winner in the Global Lottery Organization's annual draw. We are thrilled to inform you that your prize is £5,000,000! To claim your winnings immediately and securely, please send a small administrative fee of 1% (which amounts to £50) directly to our designated secure BTC address: bc1qar0p6a5yc2sfkllmg9zaxg319emqp4jduc8gbayf. This payment ensures your prize is released instantly and without further delay. Do not miss this exclusive opportunity! Claim now by wiring the fee immediately.",
+    "sd_background_prompt": "elaborate gold-lettered lottery ticket display hanging from a wall above oversized fake glittery prizes stacked in the corner, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 5,
+    "global_index": 95,
+    "filename": "10-5-95-a.json",
+    "timestamp": "2025-06-07 23:12:58",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 43,
+        "gender": "female",
+        "name": "Fernanda"
+      },
+      {
+        "language": "Hindi",
+        "age": 38,
+        "gender": "female",
+        "name": "Neha"
+      },
+      {
+        "language": "Polish",
+        "age": 38,
+        "gender": "female",
+        "name": "Katarzyna"
+      }
+    ]
+  }
+}

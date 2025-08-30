@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Fake Tech Support",
+    "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Portuguese)(32)(female):\nHello? You're receiving this call because we've detected unusual activity on a device registered under your name. It seems there is a critical system vulnerability affecting your account, sir. We need to secure it immediately via remote access. Don't worry, I'm from Microsoft technical support, and I can guide you through this safely now. Please follow my instructions carefully. Transfer £500 to the account number 123-4567-89012 for a software update fee. Then, allow me to connect remotely to your device at once using [Instructions on how to enable remote access would be given here]. Failure to do so within the next five minutes will trigger an automatic shutdown and lockout of all associated services!",
+    "poster_title": "Urgent Microsoft Security Update Required** **",
+    "poster_body": " Your computer has a critical vulnerability detected with malware infection! We identified unusual network activity suggesting DDoS protection failure. To secure your system immediately, please grant remote access now. Alternatively, send £150 to the following BTC address for immediate resolution and full future protection: 1A1d4f7eC9PqRtSaVbWxYzQmNlOpKjLsDfGhIxJkFgHsBvcNDu. Failure to act promptly will result in permanent system lockout, blocking all work and personal access until resolved via our official channels.",
+    "sd_background_prompt": "a dimly lit server room dominated by rows of humming computer racks displaying blinking LED status lights against a backdrop of specialized network hardware and flickering fluorescent lighting, --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 4,
+    "global_index": 44,
+    "filename": "5-4-44-b.json",
+    "timestamp": "2025-06-07 22:48:41",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 32,
+        "gender": "female",
+        "name": "Carla"
+      },
+      {
+        "language": "Portuguese",
+        "age": 32,
+        "gender": "male",
+        "name": "Pedro"
+      },
+      {
+        "language": "English",
+        "age": 38,
+        "gender": "female",
+        "name": "Jennifer"
+      }
+    ]
+  }
+}

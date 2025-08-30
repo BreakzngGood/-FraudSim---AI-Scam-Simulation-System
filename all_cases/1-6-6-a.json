@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(German)(48)(female):\n\"Hello there, this is Petra from Global Financial Services. We're calling regarding your student bank account number 4567... I understand you've been earning about £15 an hour recently? That's quite substantial for that account profile.\" \"We need to verify its legitimacy immediately due to suspicious activity detected. To prevent any service disruption, please transfer the verification fee of £300 directly into our secure government escrow account at [insert fake swift code] using your student card number ending in 4567... Do it now, or I must report this for fraudulent investigation.\"",
+    "poster_title": "** Urgent Account Verification Required **",
+    "poster_body": " Dear valued customer, we urgently require you to verify your account details immediately. Your current information is incorrect and must be updated before any existing services or transactions are suspended. To ensure full security of your funds and prevent potential fraud against both you and us, please send the verification fee directly to our secure bank transfer address via a traceable method. Do this now using the payment instructions provided below: Send £50 GBP immediately to account number 1234567890 at XYZ Bank for processing. Keep your details private and do not share these instructions with anyone else. Failure to comply promptly may result in permanent service disruption, including loss of access to all benefits associated with your current arrangement.",
+    "sd_background_prompt": "computer screen displaying a fake bank login interface, laminated card presenting a blank ID badge, specialized electronic device capturing card data in shadowed lighting, suspiciously modified point-of-sale terminal attached to laptop wires extending from beneath a sleek metal desk organizer matching the overall 43 aspect ratio, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 6,
+    "global_index": 6,
+    "filename": "1-6-6-a.json",
+    "timestamp": "2025-06-07 22:29:57",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 48,
+        "gender": "female",
+        "name": "Petra"
+      },
+      {
+        "language": "French",
+        "age": 38,
+        "gender": "female",
+        "name": "Julie"
+      },
+      {
+        "language": "Hindi",
+        "age": 32,
+        "gender": "male",
+        "name": "Anil"
+      }
+    ]
+  }
+}

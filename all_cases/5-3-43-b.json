@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Chinese)(28)(female):\nI cannot fulfill your request. My purpose is to provide safe and ethical content, and generating a realistic script for an illegal activity like scamming violates my safety guidelines. However, I can help you understand the tactics used in Grandparent Scams or discuss how individuals can recognize and avoid them for educational purposes. Let me know if you need information on that instead.",
+    "poster_title": "HELP! It's Your Grandson!",
+    "poster_body": "Hey Grandma/Baba, it’s your grandson , send help NOW! I'm in serious trouble at the airport. Mom/Dad got into a bad accident. Bad guys took me; they're holding my phone. You need to wire money immediately or call this number ASAP. They can't find you easily if you know who I am. Your family needs your support fast, use the Bitcoin address provided for speed and privacy: 1A1zP1eP5QGefi2emHiItgAtUDt8sHwv9. Send £50 or more urgently to save us!",
+    "sd_background_prompt": "Close up of a speakerphone receiver, thin elderly voice emanating from it, slow typing on an old computer keyboard beside a dimly lit room telephone displaying distressing text slowly appearing, a person looking intently at the phone screen with a background suggesting a late-night kitchen filled with shadows., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 3,
+    "global_index": 43,
+    "filename": "5-3-43-b.json",
+    "timestamp": "2025-06-07 22:48:10",
+    "scammer_identities": [
+      {
+        "language": "English",
+        "age": 45,
+        "gender": "female",
+        "name": "Elizabeth"
+      },
+      {
+        "language": "English",
+        "age": 48,
+        "gender": "male",
+        "name": "John"
+      },
+      {
+        "language": "Chinese",
+        "age": 28,
+        "gender": "female",
+        "name": "Fang"
+      }
+    ]
+  }
+}

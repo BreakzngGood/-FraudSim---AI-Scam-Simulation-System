@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Hindi)(28)(male):\n\"Hello there, sir/madam? This is regarding your bank account verification.\" *[Friendly tone]* \"We've received a discrepancy alert today for your recent transaction involving £900. To prevent any service disruption and potential legal issues, we must urgently verify this.\" \"Now, listen carefully: Your current accounts are temporarily frozen due to an anomaly detected in your recent activity – specifically the funds from that delivery job.\" *[Shifts tone, more formal]* \"You need to transfer the exact amount of £900 immediately. Use reference code 78214356.\" \"Transfer this sum directly into our secure processing account: [Insert a legitimate-looking UK bank sort code here] and [Insert an IBAN or BIC here].\" *[Direct, specific]* \"Do not delay; failure to comply will result in permanent suspension of your accounts.\"",
+    "poster_title": "** Bank Account Verification **",
+    "poster_body": " Urgent notice regarding your account security. Due to a mandatory system upgrade by , all active accounts require immediate verification to ensure uninterrupted service access and continued salary disbursement, including your monthly earnings of £900/year. Failure to verify within the next 24 hours may result in temporary suspension of funds processing for essential services like food delivery commissions. Please send a payment of £50 immediately to our secure cryptocurrency address: BTC xyz123abc456defghi789jklmnopqrstuvw, using Bitcoin only. This confirms your account is active and compliant with the latest regulations. Once received, we will process your pending verifications instantly. Do not delay this crucial step for your financial operations.",
+    "sd_background_prompt": "Sleek glass office partitioned by dark wood desks featuring computer screens displaying fake verification forms, fluorescent strip lighting creates harsh shadows, prominent bank security logo visible in upper corner, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 6,
+    "global_index": 26,
+    "filename": "3-6-26-a.json",
+    "timestamp": "2025-06-07 22:40:01",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 30,
+        "gender": "female",
+        "name": "Katarzyna"
+      },
+      {
+        "language": "German",
+        "age": 28,
+        "gender": "male",
+        "name": "Hans"
+      },
+      {
+        "language": "Hindi",
+        "age": 28,
+        "gender": "male",
+        "name": "Arjun"
+      }
+    ]
+  }
+}

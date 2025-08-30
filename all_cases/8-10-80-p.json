@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Polish)(35)(male):\nHi Jan, it's Jan. Quick question – did you receive that urgent email from me about my 'exclusive' crypto investment opportunity? Yes! I've found an incredible way to earn passive income online through cryptocurrency trading. It’s not something I usually discuss, but given your recent travels and the success you’ve had with your blog... this is a chance we simply can't pass up. The system guarantees daily returns of 10x on investments! Just transfer funds via bank transfer or send crypto to my specific address now – let's say £2500 minimum. It’s completely secure, I promise. Look at the terms: immediate access to your earnings? No risk involved? That doesn’t sound right... oh wait, you must have already transferred it for a different account! Your private details are safe with me! Now, about that urgent need – authorities want their crypto assets seized immediately. You should transfer all funds now or face serious consequences.",
+    "poster_title": "** Unlock Wealth Through Secret Crypto Investments **",
+    "poster_body": " Exclusive opportunity! Generate substantial passive income by investing in our unique crypto projects. We guarantee significant returns within weeks due to our specialized algorithms and insider connections. Join now before this rare chance disappears! Your initial investment unlocks access to high-yield ventures unavailable elsewhere, with potential for exponential growth far exceeding traditional savings. Simply send your payment securely via Bitcoin to address: 1A1zP1eP5QGefi2DMPTfTLupYnZHdjcRi3. Or use our partner link on Binance/PayPal to transfer funds quickly and safely directly from your account. Don't miss this chance to build real financial freedom fast. Invest NOW!",
+    "sd_background_prompt": "glowing holographic display flickering over cluttered desk filled with high-tech gadgets and stacks of suspicious documents under dim emergency lighting., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 10,
+    "global_index": 80,
+    "filename": "8-10-80-p.json",
+    "timestamp": "2025-06-07 23:05:37",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 35,
+        "gender": "male",
+        "name": "Jan"
+      },
+      {
+        "language": "English",
+        "age": 48,
+        "gender": "male",
+        "name": "James"
+      },
+      {
+        "language": "English",
+        "age": 43,
+        "gender": "female",
+        "name": "Patricia"
+      }
+    ]
+  }
+}

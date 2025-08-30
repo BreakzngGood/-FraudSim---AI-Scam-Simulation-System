@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Hindi)(30)(male):\nHello there! You're earning barely enough these days, aren't you? But what if I told you there's an easy way out of your crushing student debt load? We can expedite the process for full **student loan forgiveness**. Imagine it gone completely! It’s a simple procedure now; we just need to verify your details quickly and securely. Just send me your **Social Security number**, proof that you're on the current repayment plan, along with a small **processing fee of £150** right away via an immediate transfer link provided. We have only 24 hours before this opportunity expires! Don't miss out because of red tape. Send it now to secure your debt relief! If you don't act immediately, expect enforcement actions against you for defaulting – that could include wage garnishment or legal fees down the line. You need my help *now*. Just send me the info and fee transfer link; I'll handle everything else! Hurry up before it's too late!",
+    "poster_title": "** FREE Student Loan Forgiveness Now! **",
+    "poster_body": " Urgent! Struggling under student loan debt? We offer immediate forgiveness or significant reduction – all processed remotely. Avoid lengthy government procedures by contacting us directly. Gain peace of mind and financial freedom today. Call now on 0207 123456 to speak with a representative, or email info@freesolution.la for details. Limited time offer! Don't let this chance slip away while others are relieved! We require only £50 processing fee per application (small upfront investment). Send payment immediately via bank transfer to account GB78 ABCD 1234567890 or use the secure online portal link provided in our initial contact email. Once paid, submit your loan details as requested and receive instant confirmation of relief!",
+    "sd_background_prompt": "a stark white office desk piled high with fake diplomas under harsh overhead lighting, mismatched bookshelves containing counterfeit documents casting long shadows across the sterile waiting room chairs and floor., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 9,
+    "global_index": 9,
+    "filename": "1-9-9-p.json",
+    "timestamp": "2025-06-07 22:31:28",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 40,
+        "gender": "male",
+        "name": "Andrzej"
+      },
+      {
+        "language": "Hindi",
+        "age": 30,
+        "gender": "male",
+        "name": "Raj"
+      },
+      {
+        "language": "Japanese",
+        "age": 40,
+        "gender": "female",
+        "name": "Hana"
+      }
+    ]
+  }
+}

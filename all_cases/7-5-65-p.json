@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(French)(28)(female):\nHello, greetings Ms./Mr. Sophie? This is the International Sweepstakes Bureau calling you regarding your recent win! Ah yes, congratulations! You've been selected to receive a prize package worth approximately £350,000 from our international lottery draw. Excellent! Just so we can process this for you immediately, there's only one small requirement. We need a processing fee of just £129 paid directly into our official escrow account: [Insert Fake Account Number Here]. Please transfer the funds using your bank's wire transfer service now. The reference code is provided in the email we sent earlier today containing all the details. Failure to remit this fee promptly means your winnings will be forfeited and transferred to another eligible winner. Understood, thank you for confirming! We look forward to receiving that £129 shortly via bank transfer. Do not delay; act now to secure your prize money before midnight tonight!",
+    "poster_title": "Urgent Lottery Prize Announcement",
+    "poster_body": "Congratulations! You've been selected for our international lottery draw. We are thrilled to inform you that you have won £1,000,000! To claim your prize money immediately and securely transfer it into your account before the deadline passes, please send a fee of £50 via Bank Transfer directly from your personal bank account to Account Holder Name: Global Lottery Organization Ltd., Sort Code: 40-02-16, Account Number: 98375214. This is required by law and ensures instant access to your winnings once processed. Do not delay! Send the £50 NOW for immediate payment.",
+    "sd_background_prompt": "glittering prizes displayed on an array of holographic screens, overwhelming jackpot signs reflecting off metallic podiums, intense stage lighting highlighting fake luxury items in close-up, flashy animated numbers scrolling across a large digital display wall, dramatic spotlight effects illuminating the center of a crowded but empty room backdrop., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 5,
+    "global_index": 65,
+    "filename": "7-5-65-p.json",
+    "timestamp": "2025-06-07 22:58:48",
+    "scammer_identities": [
+      {
+        "language": "English",
+        "age": 43,
+        "gender": "female",
+        "name": "Linda"
+      },
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "female",
+        "name": "Sophie"
+      },
+      {
+        "language": "Hindi",
+        "age": 43,
+        "gender": "female",
+        "name": "Pooja"
+      }
+    ]
+  }
+}

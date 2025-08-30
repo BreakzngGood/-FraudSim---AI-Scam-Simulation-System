@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Hindi)(35)(male):\nHello? Yes! Congratulations you've won a huge prize package from our international lottery draw! This is life-changing money! But first, there's just one small fee payment required immediately for verification. It only needs to be £150 transferred directly into this account number: [insert fake bank details here] via your online banking or phone transfer. We need proof of this transaction right away before we can release the funds. Please do it now! If you don't, I must inform you that our security department will have no choice but to involve law enforcement regarding suspicious activity on your account number: [insert fake different account details here]. This is urgent! Do not delay!",
+    "poster_title": "** You Won! Jackpot Awaits! **",
+    "poster_body": " Congratulations! We have selected you for a special international lottery draw. Your prize is 100,000 Euros in cash and luxury gifts! To claim your winnings instantly via our secure portal, you must first pay an entry fee of just £50 to cover processing costs. This is mandatory before we release the funds to your account. Important: Failure to remit payment immediately results in forfeiture of your prize. Pay now: Use bank transfer details provided below for prompt confirmation and release. UK Bank Account Sort Code: 40-21-93, Account Number: 96587412 Swift/BIC Code: CHASGB2L Do not delay! This is the fastest way to secure your prize money.",
+    "sd_background_prompt": "A sleek mahogany desk displays an ornate globe, several expensive-looking watches, and what appears to be stacks of money in a clear acrylic container on the floor, --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 5,
+    "global_index": 15,
+    "filename": "2-5-15-b.json",
+    "timestamp": "2025-06-07 22:34:27",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 32,
+        "gender": "female",
+        "name": "Ursula"
+      },
+      {
+        "language": "Hindi",
+        "age": 35,
+        "gender": "male",
+        "name": "Raj"
+      },
+      {
+        "language": "French",
+        "age": 40,
+        "gender": "female",
+        "name": "Isabelle"
+      }
+    ]
+  }
+}

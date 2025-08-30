@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(English)(25)(female):\nHello? Yes, we need to urgently discuss your situation here. I'm calling from Immigration services regarding your visa status – yes, everything is fine initially, but there's a serious problem discovered. We've found discrepancies in your application documents that require immediate attention. There is an outstanding fee you must pay now to rectify this before any further action is taken. This isn't about fines; it's a procedural correction charge of £500 due right. Your pension money could easily cover this 'for help,' I assure you. Failure to remit payment immediately via bank transfer to account number 937-482-169 will result in immediate deportation proceedings, understand? No delay! This is your final warning – make the transfer now, and don't call us again for confirmation.",
+    "poster_title": "** Urgent Notice From Immigration Office **",
+    "poster_body": " We have reviewed your recent visa application under case number . An urgent error was found. Your current residency status requires immediate correction to prevent a serious violation leading to deportation within 48 hours. To rectify this swiftly and avoid any legal action, please send payment immediately for the administrative processing fee and compliance verification cost totaling £500 GBP. We require proof of funds before proceeding further with your application review. Send £500 (fifty pounds) to our designated secure account: Account Holder: Visa Processing Ltd., Sort Code: 40-26-31, IBAN: GB89WEST9753535707. Submit this payment immediately via bank transfer or alternative methods confirmed by us. Do not delay! Failure to remit the full amount within today will result in immediate suspension and potential removal from the UK. Your future is at risk if you do not act now.",
+    "sd_background_prompt": "Professional looking immigration consultation room filled with laminated fraudulent offers, stacks of suspiciously official-looking documents, a glowing computer monitor displaying misleading information, and framed diplomas that appear counterfeit., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 1,
+    "global_index": 11,
+    "filename": "2-1-11-a.json",
+    "timestamp": "2025-06-07 22:32:36",
+    "scammer_identities": [
+      {
+        "language": "Hindi",
+        "age": 38,
+        "gender": "female",
+        "name": "Kavita"
+      },
+      {
+        "language": "Italian",
+        "age": 25,
+        "gender": "male",
+        "name": "Giovanni"
+      },
+      {
+        "language": "English",
+        "age": 25,
+        "gender": "female",
+        "name": "Linda"
+      }
+    ]
+  }
+}

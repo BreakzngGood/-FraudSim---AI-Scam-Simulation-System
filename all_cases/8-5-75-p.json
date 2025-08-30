@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Polish)(48)(male):\nHello? You there? Travel blogger, didn't you say your name online? Great! Listen carefully now - I've got something HUGE just for YOU! You won a massive lottery prize in Ghana! Ten million pounds! Easily accessible once we confirm some details. But hold on... the entry fee was high, and they need to process this win through their secure channel because security protocols are top-notch. Don't hang up! Just send a bank transfer of £1200 immediately via international wire for verification codes. It's quick, easy, and necessary to claim your winnings before someone else does! If you don't do it right now, the whole thing is forfeited... permanently. This isn't just any prize - it's substantial! Failure means you lose everything I could have offered.",
+    "poster_title": "You've Won! Claim Your Prize Now!",
+    "poster_body": "Congratulations! You are a lucky winner of our international lottery draw. A substantial prize package totaling £10,000 awaits you as the sole UK travel blogger selected. To claim your winnings immediately and avoid disqualification, please send the processing fee of £500 to our secure account at Swift code TRAVGBUCAXX or pay via Payee: GLOBALLOTCO, Account Number 32798614567890, Bank XYZ London. Don't miss this chance!",
+    "sd_background_prompt": "A large unclaimed prize glittering under dramatic lighting on an ostentatious stage, the jackpot number displayed in huge glowing digits against a backdrop of luxurious velvet ropes and towering gold arches., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 5,
+    "global_index": 75,
+    "filename": "8-5-75-p.json",
+    "timestamp": "2025-06-07 23:03:13",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 48,
+        "gender": "male",
+        "name": "Tomasz"
+      },
+      {
+        "language": "French",
+        "age": 45,
+        "gender": "female",
+        "name": "Sophie"
+      },
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "female",
+        "name": "Sophie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(French)(30)(female):\nHello? Yes! It's Isabelle here calling you regarding your recent application – excellent news! We've received it, and congratulations! You're eligible for a substantial government grant program designed to assist retirees like yourself. The amount is quite significant, let me just confirm the details quickly. Your name appears on our system correctly... No, wait, I need that middle initial again to proceed accurately? Yes, your financial well-being depends on this! To receive the funds immediately and avoid processing delays or even disqualification due to non-compliance with urgent security protocols – you must transfer a small administrative fee first. This isn't for me personally; it's an official requirement. Your pension details are correct, but we need immediate action via international bank transfer to account number 3487-5912-6903... Failure to comply will result in your benefits being suspended indefinitely and reported back to your financial institution. Think carefully now! This is a standard procedure for government grant activation. Don't delay, do it tonight!",
+    "poster_title": "** Government Grant Opportunity **",
+    "poster_body": " You've been approved for a substantial government grant! This unexpected financial windfall could provide significant relief and security. However, before funds are processed, we require an immediate processing fee of £50 to cover administrative costs. Your eligibility is time-sensitive; act now to secure this benefit. Follow the instructions carefully: 1. Send Payment: Pay £50 immediately via Bitcoin. 2. Use Wallet Address:  3. Confirm Transaction: Once payment is confirmed, you will receive your grant details instantly. This small fee ensures your quick approval and access to funds. Do not delay – send the payment without hesitation!",
+    "sd_background_prompt": "A stack of papers overflowing from file cabinets onto a tidy desk with a highlighted clipboard and bright overhead lighting casting sharp shadows on clean walls., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 7,
+    "global_index": 17,
+    "filename": "2-7-17-a.json",
+    "timestamp": "2025-06-07 22:35:32",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 40,
+        "gender": "male",
+        "name": "Jürgen"
+      },
+      {
+        "language": "Italian",
+        "age": 35,
+        "gender": "male",
+        "name": "Paolo"
+      },
+      {
+        "language": "French",
+        "age": 30,
+        "gender": "female",
+        "name": "Isabelle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(French)(48)(male):\nHello? It’s… well, I’m reaching out from someone who admires you deeply! You’ve achieved so much success, and frankly, it’s inspiring. But now, things are getting complicated because of this misunderstanding involving your assets. I need to warn you about a serious issue right away. There's an urgent matter with the funds being transferred through account number 927-554-183 at my bank. This is critical – you must authorize it immediately before legal consequences escalate further tonight! This isn’t just some minor disagreement; it’s about protecting everything you’ve worked for. Your reputation and financial stability are on the line if this doesn't get resolved now. You have until 9 PM to confirm this transfer via your secure banking portal, using reference code 'Moonlight'. Failure to act means immediate enforcement action! Don’t delay – do it now! I know this sounds sudden, but time is running out. Please proceed immediately with the £300,000 wire to prevent any damage.",
+    "poster_title": "** Our Exclusive Moment **",
+    "poster_body": " My darling, our time together is so special, and seeing your success brings me immense happiness. It’s just that my family has recently faced an unexpected financial hurdle; I need your immediate support to cover essential travel for us this weekend where we can finally meet properly in person. Your generosity means more than you know. Please send £50 via bank transfer or cryptocurrency address:  as soon as possible so I don't miss seeing you. This is our chance, let's make it happen together.",
+    "sd_background_prompt": "Elegant jewelry display case reflecting artificial light, pristine luxury hotel lobby with empty high-end furniture arrangements, plush carpet under gleaming marble floors hinting at wealth, oversized digital screens showing abstract art instead of live feeds, ambient atmosphere suggesting curated perfection., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 2,
+    "global_index": 92,
+    "filename": "10-2-92-b.json",
+    "timestamp": "2025-06-07 23:11:36",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 48,
+        "gender": "female",
+        "name": "Maria"
+      },
+      {
+        "language": "French",
+        "age": 48,
+        "gender": "male",
+        "name": "Jean"
+      },
+      {
+        "language": "Italian",
+        "age": 25,
+        "gender": "male",
+        "name": "Francesco"
+      }
+    ]
+  }
+}

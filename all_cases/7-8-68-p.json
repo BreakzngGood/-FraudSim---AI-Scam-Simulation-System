@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Polish)(40)(male):\n\"Hello? Is this Ms./Mr. Andrzej? I'm calling from eBay/Amazon regarding your recent order cancellation. It seems there was an urgent system glitch; we need to verify your account details immediately to prevent a chargeback! Please transfer £350 to our secure escrow account at Sort Code: 12-34-56, Account Number: 987654321 directly via bank transfer without using the platform. Do this now or we'll have to block your entire account permanently due to suspicious activity!\"",
+    "poster_title": "",
+    "poster_body": "Exclusive Time-Limited Offer: Auction Ends Now! You won the bid for this unique software package at auction! Due to overwhelming demand, this exclusive deal is ending immediately upon confirmation. Avoid disappointment and ensure your purchase. Act fast now to secure your copy before it disappears forever. Your account needs a £50 payment processed urgently via Bitcoin directly into wallet address ABC123XYZ. This specific transaction code allows instant delivery access post-payment verification. This isn’t an overpriced item; the limited run offers exceptional value you won't find elsewhere. Send the funds quickly to complete your acquisition without delays, just follow these clear instructions.",
+    "sd_background_prompt": "glowing phone displaying transaction details next to a cluttered gold trinket stall with suspiciously expensive pricing stickers and an older computer monitor showing outdated price listings beside cracked glass display cases holding mismatched items where some product labels are conspicuously missing., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 8,
+    "global_index": 68,
+    "filename": "7-8-68-p.json",
+    "timestamp": "2025-06-07 23:00:15",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 28,
+        "gender": "female",
+        "name": "Chiara"
+      },
+      {
+        "language": "Hindi",
+        "age": 32,
+        "gender": "female",
+        "name": "Anita"
+      },
+      {
+        "language": "Polish",
+        "age": 40,
+        "gender": "male",
+        "name": "Andrzej"
+      }
+    ]
+  }
+}

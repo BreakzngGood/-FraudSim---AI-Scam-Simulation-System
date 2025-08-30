@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(German)(43)(male):\n\"Hello? Ms./Mr. Thompson?\" A polite yet slightly brisk tone might work well here to establish authority early. \"I'm calling from [Bank Name - use a generic placeholder like *Global Financial Solutions*]. This is urgent! We've detected unusual activity on your account linked to Sort Code *123456*, Account Number *78901234*. For security reasons, we need you to verify it immediately.\" \"Follow my instructions carefully. Transfer £30,000 from your current account IMMEDIATELY to this secure verification vault: Routing/SWIFT *AAAAA111BBB* and Account Number *9876543210\". Emphasize the urgency. \"Now! This is critical for preventing immediate lockout of all your accounts. Do it now, without delay!\" Increase pressure slightly with repetition or a direct threat element if needed within 10-20 words to make it feel abrupt and demanding. \"Comply swiftly, or face serious consequences for your financial standing.\"",
+    "poster_title": "** International Bank Security Alert **",
+    "poster_body": " Your account urgently requires immediate review for enhanced security measures due to unusual international transactions flagged yesterday. We need you to verify your details via secure online portal instantly to prevent suspension. Failure now means delays tomorrow. Please transfer £50 immediately as verification fee using the provided Bitcoin address, 1A1zP1eP5QGefi2Fm4cPHK7fGvXttrHt9C, this confirms your immediate access level. Use reference code 'SECURE-ACCESS-VERIFY'. This small payment secures your full verification now and prevents any future issues instantly. Complete the process via our secure website link provided below, ensuring all details are correct before submitting. Take action immediately to ensure smooth operation for you today.",
+    "sd_background_prompt": "darkened room filled with multiple glowing computer monitors displaying fake website interfaces, various id documents and forged bank cards loosely stacked on an unlit desk, a laptop keyboard partially obscured by shadow showing typed-in credentials, suspicious domain names highlighted in blue neon light across one screen, ambient green digital glow casting long shadows from the complex background., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 6,
+    "global_index": 66,
+    "filename": "7-6-66-b.json",
+    "timestamp": "2025-06-07 22:59:21",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 43,
+        "gender": "male",
+        "name": "Peter"
+      },
+      {
+        "language": "Italian",
+        "age": 30,
+        "gender": "female",
+        "name": "Giulia"
+      },
+      {
+        "language": "Polish",
+        "age": 45,
+        "gender": "female",
+        "name": "Barbara"
+      }
+    ]
+  }
+}

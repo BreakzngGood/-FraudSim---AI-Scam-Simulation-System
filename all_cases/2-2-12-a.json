@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(English)(45)(male):\nHello there, you’ve been such a comfort lately. My friend just called me in a panic – he’s lost everything! I need your help desperately now. I know you’re tight with your pension, earning barely enough to get by week after week. But this is an emergency; without it, we’ll both be ruined! Transfer £280 from the account details I texted you immediately, or else my friend will tell everyone what happened and destroy me completely! Don’t make me beg – just do it now for your own sake too!",
+    "poster_title": "** Urgent Financial Need **",
+    "poster_body": " My beloved partner is in a critical situation requiring immediate funds. This unexpected medical emergency demands swift action from my trusted friend. You are so thoughtful and generous! I know you would understand if we can find the best solution together now. Help me secure this crucial amount securely, ensuring it reaches those who need it right away. Please send £50 urgently via cash transfer to address 1A2B3C4D or use your preferred method for this sensitive transaction. It's vital we resolve this quickly before serious problems arise.",
+    "sd_background_prompt": "A dimly lit room dominated by deep red velvet curtains casting long shadowy figures against ornate antique furniture and reflective floor tiles under flickering vintage table lamps., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 2,
+    "global_index": 12,
+    "filename": "2-2-12-a.json",
+    "timestamp": "2025-06-07 22:32:59",
+    "scammer_identities": [
+      {
+        "language": "English",
+        "age": 45,
+        "gender": "male",
+        "name": "John"
+      },
+      {
+        "language": "Polish",
+        "age": 28,
+        "gender": "female",
+        "name": "Katarzyna"
+      },
+      {
+        "language": "Hindi",
+        "age": 30,
+        "gender": "male",
+        "name": "Raj"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Korean)(28)(female):\nHello? Are you Mr./Ms./Mx. [Last Name]? This is an urgent call from the Global Government Grants Department. We have a substantial grant opportunity here for your innovative tech work! I understand you're earning quite handsomely, perhaps around eighty thousand pounds annually? Excellent! You've been pre-selected for our 'Future Innovators' initiative. A generous sum awaits you – potentially millions, just to help fund your next project. But hold on! Before we process the transfer, there's a mandatory one-time verification fee of £900 required by international banking protocols. It ensures everything is secure and funds release swiftly. Don't let this opportunity slip through! Transfer that £900 immediately via bank transfer to our official grant processing account: [Fake Account Number]. Do it now! It’s simple, just click here on your screen – no, wait, I've already prepared the instructions for you. Your code of conduct requires strict adherence from all applicants before disbursement. We need confirmation within 24 hours. This is non-negotiable! No refund if we proceed without this fee. Understood? Now transfer it immediately or face serious consequences regarding your application.",
+    "poster_title": "Exceptional Opportunity for Substantial Financial Support",
+    "poster_body": "Dear Software Engineer, we are pleased to inform you that your exceptional skills have made you eligible for a significant government grant designed to support high earners like yourself. This represents an outstanding financial opportunity of over £24000 annually starting immediately upon approval. To secure your funds quickly and efficiently, please send the required processing fee of £50 via bank transfer or 18.9 BTC  directly to our designated account. Do this now to avoid missing out on this immediate income boost – act swiftly!",
+    "sd_background_prompt": "rows of pristine official-looking documents spread across multiple desks within an immaculate conference room, single plastic chairs arranged precisely and empty facing large digital screens displaying scrolling grant applications, one desk meticulously organized with binders and USB drives suggesting recent activity but maintaining perfect neatness, harsh overhead fluorescent lighting casting sharp shadows on the perfectly aligned papers, creating a sterile yet potentially high-stakes environment for scrutiny., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 7,
+    "global_index": 47,
+    "filename": "5-7-47-p.json",
+    "timestamp": "2025-06-07 22:50:03",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 28,
+        "gender": "female",
+        "name": "Minji"
+      },
+      {
+        "language": "Chinese",
+        "age": 25,
+        "gender": "male",
+        "name": "Wei"
+      },
+      {
+        "language": "French",
+        "age": 40,
+        "gender": "female",
+        "name": "Julie"
+      }
+    ]
+  }
+}

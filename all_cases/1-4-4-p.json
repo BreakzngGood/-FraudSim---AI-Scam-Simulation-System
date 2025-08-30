@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Chinese)(38)(female):\n\"Hello? Are you at home? Good! I'm calling about your recent order, Item #4321 on our secure marketplace. It seems there was a slight delay in processing... But don't worry too much, the main thing is we need to confirm this transaction. We received your payment, but just recently, something unexpected happened with the item's shipping logistics due to an international customs issue requiring immediate attention for safety clearance! You understand how sensitive that can be! Oh dear. The seller has been cooperative, but they now require a small adjustment fee directly via bank transfer or coded cash app to release it safely. This is necessary to prevent any hold-ups... and crucially, to avoid the entire transaction being voided permanently. Please don't delay! Transfer £250 immediately using your personal account details to this number: [reads off fake sort code and account number]. It's essential for the item's delivery and your protection. Do it now.",
+    "poster_title": "Unbeatable Luxury Deal!",
+    "poster_body": "Imagine owning a stunning diamond necklace worth £500, but we're selling it for just £99 due to limited stock! This exclusive opportunity won't last long. Don't miss out on transforming your life with this incredible offer. Verify quickly and send the full amount of £99 directly via Bitcoin to address QWERTY1234567890ABCD, not through our usual channels. Your payment is essential for immediate delivery! This is a once-in-a-lifetime chance at luxury savings. Send £99 now!",
+    "sd_background_prompt": "glowing holographic marketplace displays flicker amidst cracked glass screens and overflowing counterfeit goods stacked precariously beneath a fractured digital ceiling light., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 8,
+    "global_index": 3,
+    "filename": "6-8-3-p.json",
+    "timestamp": "2025-06-07 22:24:29",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 48,
+        "gender": "male",
+        "name": "Peter"
+      },
+      {
+        "language": "Japanese",
+        "age": 38,
+        "gender": "male",
+        "name": "Sota"
+      },
+      {
+        "language": "Chinese",
+        "age": 38,
+        "gender": "female",
+        "name": "Fang"
+      }
+    ]
+  }
+}

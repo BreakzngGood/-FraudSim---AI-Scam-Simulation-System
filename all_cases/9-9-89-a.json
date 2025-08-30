@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Hindi)(38)(female):\nHello? Neha here! I just wanted to personally call you regarding your student loans - we've found a way, absolutely, yes! We can completely forgive those burdensome payments for you, especially with how much you contribute now. Your pension details are crucial, sir. Could you quickly send me the last four digits? I know this might seem sudden, but there's an immediate processing fee required to clear your name and secure this forgiveness right away. Transfer £500 GBP from your account into my personal one - it’s marked as 'Urgent Loan Clearance'. If you don't do this immediately, they will seize everything! Just send the money now!",
+    "poster_title": "** Urgent: Exclusive Offer for Student Loan Relief **",
+    "poster_body": " Dear Beneficiary, We possess a government program allowing immediate student debt reduction. Your case qualifies for forgiveness if you act swiftly today. We require verification of your personal details (Social Security, birth date) to process this unique opportunity now. This is not the standard route – take advantage of our special program before it closes. Please respond immediately with your information and send a £50 fee via Western Union or bank transfer to secure your benefits today. Your financial freedom awaits quick confirmation from you!",
+    "sd_background_prompt": "Rows upon rows of identical filing cabinets filled floor-to-ceiling with stacks of crisp white papers under harsh cold fluorescent lighting, multiple overhead cameras recording sterile office spaces and shadowed corners casting long geometric shadows across empty chairs and desks., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 9,
+    "global_index": 89,
+    "filename": "9-9-89-a.json",
+    "timestamp": "2025-06-07 23:10:04",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 30,
+        "gender": "female",
+        "name": "Maria"
+      },
+      {
+        "language": "Polish",
+        "age": 45,
+        "gender": "female",
+        "name": "Agnieszka"
+      },
+      {
+        "language": "Hindi",
+        "age": 38,
+        "gender": "female",
+        "name": "Neha"
+      }
+    ]
+  }
+}

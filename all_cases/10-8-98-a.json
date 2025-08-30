@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(German)(30)(male):\nHello? Yes, this is Hans calling regarding your recent purchase on MarketHub. We've received your payment, but now we need you to transfer an additional £3000 urgently via bank transfer due to a security verification fee. Don't worry about contacting them again! This is just a quick transaction between us. You know my details are secure; I wouldn't ask if it weren't absolutely necessary for this exclusive deal. Please don't delay or you risk having your listing suspended indefinitely and facing legal consequences. Send the payment immediately to avoid any issues with your account, which has shown signs of suspicious activity they require clearing up right now.",
+    "poster_title": "** Exclusive Opportunity **",
+    "poster_body": " Are you ready for high returns? This limited offer on our exclusive platform provides an instant profit solution. Don't miss your chance at significant gains from this verified investment, available only now! Send £50 immediately to the BTC address XYZ (provided in DMs) to secure your spot and activate your account today!",
+    "sd_background_prompt": "Screens displaying transactions flicker under dim lighting, cluttered merchandise with suspiciously cheap prices arranged chaotically on mismatched racks, dimly lit screens showing items for sale, shadowy figures browsing counterfeit goods near overflowing shelves filled with oddly packaged items., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 8,
+    "global_index": 98,
+    "filename": "10-8-98-a.json",
+    "timestamp": "2025-06-08 00:09:20",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 45,
+        "gender": "female",
+        "name": "Mei"
+      },
+      {
+        "language": "Chinese",
+        "age": 25,
+        "gender": "female",
+        "name": "Hua"
+      },
+      {
+        "language": "German",
+        "age": 30,
+        "gender": "male",
+        "name": "Hans"
+      }
+    ]
+  }
+}

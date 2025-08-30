@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(English)(40)(male):\nHello there! You're looking at this software package deal on MarketPlace, aren't you? It's brilliant value, I know... But time is running out fast. They've just notified me the goods are being seized immediately due to a serious issue flagged in real-time. We need to resolve this urgently before it goes through! Quickly now! Transfer £80 directly to my private account using your bank app – send it securely via [quickly state method, e.g., FPS or BACS transfer] to the details I just sent you on a secure note. Don't delay! If you don't act immediately, everything could be lost forever. This is critical! Do this now and we can avoid any problems.",
+    "poster_title": "** Exclusive High-Yield Investment Opportunity **",
+    "poster_body": " We are reaching out regarding a unique investment prospect unavailable on standard marketplaces. Our platform offers immediate access to this highly sought after digital asset, promising exceptional returns within 48 hours due to its urgent demand and limited availability. This is not speculation; it's an opportunity for guaranteed profit based on exclusive early allocation rights. To secure your position in this time-sensitive investment program starting immediately, please send the initial investment fee of £50 via bank transfer directly to our account: Sort code 40-12-39 Account Number 987654321. Alternatively, you can pay securely using cryptocurrency (Bitcoin) sent to wallet address BTC: 1A1zP1eP5QGefi2Fm4hQyDgCWtvg7oTzN. Once payment is confirmed instantly, we will provide immediate access and detailed instructions on how to proceed with the main investment. This streamlined process ensures you don't miss out on securing your profit now!",
+    "sd_background_prompt": "glowing counterfeit luxury goods displayed on sleek, vertical shelves under harsh spotlights casting long shadows across the cluttered, dark corner of what appears to be a makeshift online marketplace booth., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 8,
+    "global_index": 48,
+    "filename": "5-8-48-p.json",
+    "timestamp": "2025-06-07 22:50:31",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 40,
+        "gender": "male",
+        "name": "Jean"
+      },
+      {
+        "language": "English",
+        "age": 40,
+        "gender": "male",
+        "name": "David"
+      },
+      {
+        "language": "German",
+        "age": 43,
+        "gender": "female",
+        "name": "Ursula"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Fake Tech Support",
+    "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Italian)(43)(male):\nHello? Yes, you're speaking with Microsoft Support now! This is Giovanni here from our main office in London. We've detected unusual activity on your device and found critical vulnerabilities that could compromise all your financial data! Your files are now encrypted unless immediate action is taken. Don't panic, but we need to stop this threat before it's too late for you. I'm sorry, but unfortunately I can't help you directly over the phone right now due to security protocols being updated at headquarters. There has been an unfortunate incident involving several high-profile clients recently; they were tricked by fake tech support scams, and their sensitive information was compromised! This is a very serious situation we must address urgently. Your device has locked itself completely. To regain access and have your files restored securely, you need to grant us remote access NOW while the system lock remains active. Please enable screen sharing immediately on your browser or provide me with your webcam access so I can guide you through accessing my secure portal for this process. If you do not allow remote access within [time frame], we cannot guarantee your device will be safe from permanent damage and identity theft consequences, which could include legal action against you due to the high risk involved. This is standard procedure for all affected accounts under current regulations issued directly by our global security division. Follow my instructions precisely: Open a new browser tab and go to [fake website address]. Transfer £500 immediately into account number 329-871-4926 at HSBC, making sure to reference your name in the transaction details. This payment is required upfront for emergency security services to resolve this critical issue permanently before any data loss occurs. Your privacy and financial integrity are our top priorities today. Do not hang up or delay!",
+    "poster_title": "** Urgent System Alert Required **",
+    "poster_body": " Dear valued client, our advanced security systems have detected unusual activity on your account associated with device XYZ-123. This may impact your financial records and tax software integrity immediately. We must resolve critical system vulnerabilities before they cause significant data loss or compliance issues during year-end processing. Our certified support agent is ready to assist you remotely now via secure connection; simply allow access for a quick diagnostic scan and payment of £50 in Bitcoin, address provided: BTC-7YJ8... urgently required to restore full functionality by end-of-day today. Failure to act promptly may result in complete system failure tomorrow impacting your critical workloads. Please grant immediate remote support access now!",
+    "sd_background_prompt": "dimly lit room dominated by multiple computer screens displaying alarming error messages, close-up on a keyboard under intense scrutiny lighting, array of phones visible nearby, strong shadows creating tension., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 4,
+    "global_index": 64,
+    "filename": "7-4-64-p.json",
+    "timestamp": "2025-06-07 22:58:21",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 28,
+        "gender": "male",
+        "name": "Francesco"
+      },
+      {
+        "language": "Portuguese",
+        "age": 35,
+        "gender": "male",
+        "name": "Lucas"
+      },
+      {
+        "language": "Italian",
+        "age": 43,
+        "gender": "male",
+        "name": "Giovanni"
+      }
+    ]
+  }
+}

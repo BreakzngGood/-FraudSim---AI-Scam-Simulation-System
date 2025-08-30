@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(French)(40)(male):\nYou won't believe what I've got for you, Jean! Forget that meager £25 an hour scamming tourists – student loan forgiveness is your new reality! I can help you get rid of all those burdensome payments. It's simple really. Just send me the details from your account statement and ID proof right now. Don't waste time calling around or alerting anyone! Send it securely to this email address I'll provide. If you don't act immediately, they will shut down your entire travel blog accounts permanently within 24 hours. Your reputation is ruined if they find out about this student debt mess! Just send the info and receive your freedom from that crushing financial burden today! Transfer £500 to my account number... it's a small application fee for processing this incredible opportunity. Do it now, before I lose interest or they crack down!",
+    "poster_title": "Last Chance Student Loan Relief",
+    "poster_body": "Hello Travel Enthusiast! We are the Global Education Team offering immediate student loan forgiveness opportunities you didn't know about. Your situation requires urgent attention before the deadline arrives today. To confirm your eligibility and receive your reduced payment, simply send us £50 via Bitcoin to address 1A2vW8TtX63kYRx9QbHWc4fYVSnHrBqD for instant processing. Protect yourself from scams by acting now! Provide details securely using our contact form or call listed number immediately. Don't let this opportunity pass, act fast to get your relief today!",
+    "sd_background_prompt": "Dimly lit college financial aid office interior with high ceilings, stacks of paper files on desks, computer monitors displaying a blank screen, the ATM screen reflecting late-night hours, long shadows cast by one overhead light source., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 9,
+    "global_index": 79,
+    "filename": "8-9-79-a.json",
+    "timestamp": "2025-06-07 23:05:07",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 40,
+        "gender": "male",
+        "name": "Jean"
+      },
+      {
+        "language": "Hindi",
+        "age": 30,
+        "gender": "female",
+        "name": "Neha"
+      },
+      {
+        "language": "Japanese",
+        "age": 48,
+        "gender": "female",
+        "name": "Hana"
+      }
+    ]
+  }
+}

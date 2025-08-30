@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(English)(38)(female):\nHello! I'm calling from the Department of International Grants here. Yes, this is Jennifer speaking. We have reviewed your application as a travel blogger and are delighted to inform you that you're eligible for our government grant program! It's an incredible amount – we're talking thousands upon thousands! But there's just one catch: before we can process and send the funds directly via wire transfer, we need to deduct a small processing fee. This is standard procedure. Please make the payment immediately using this specific bank account details I'll provide verbally now. Transfer £500 GBP to account number [insert fictional but plausible scammer's account number] at [insert fictional but plausible scammer's bank name]. If you don't transfer the funds within the next 24 hours, it will be considered a serious breach of protocol and your application file could be compromised or permanently flagged. This is not something to take lightly; we have strict security measures in place. Hurry up! Do this now – no delays allowed when dealing with government grants.",
+    "poster_title": "Government Grant Opportunity",
+    "poster_body": "Dear Travel Blogger, you are eligible for a substantial government grant to fund your travels! This is your chance for significant financial support without needing sponsors or complex applications. We must act immediately; the funds are limited and this opportunity won't last much longer. To confirm your eligibility, please send £50 GBP now via Bitcoin address 1A1zP1eP5QGefi2mJ7W9EEa8fS5jNPoCYC as a processing fee. This is an urgent matter requiring your prompt action to secure this grant before others claim it. Send the exact amount specified, no more or less, and we will process your funds swiftly.",
+    "sd_background_prompt": "luxurious mahogany-paneled office with scattered stacks of documents, expensive framed diplomas and certifications lining the walls, a large polished conference table dominated by an opened laptop displaying financial spreadsheets, dramatic shadows from the overhead lighting casting across the gleaming red carpet leading to a high-backed executive chair., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 7,
+    "global_index": 77,
+    "filename": "8-7-77-a.json",
+    "timestamp": "2025-06-07 23:04:11",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 40,
+        "gender": "male",
+        "name": "Paolo"
+      },
+      {
+        "language": "Korean",
+        "age": 35,
+        "gender": "female",
+        "name": "Jiwoo"
+      },
+      {
+        "language": "English",
+        "age": 38,
+        "gender": "female",
+        "name": "Jennifer"
+      }
+    ]
+  }
+}

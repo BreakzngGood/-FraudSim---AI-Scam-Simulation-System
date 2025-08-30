@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Korean)(38)(male):\n\"Hey there! Remember how much we've shared? I need your help right now...\" *voice warm* \"My car broke down near the coast, flooded actually... emergency repair costs are astronomical. They're not giving me time to sort it!\" *sigh heavy* \"You know my account is compromised, so I can't access £300 myself.\" *pause, voice sharpens* \"Transfer £300 immediately to [Bank Account Number] before they notice the issue. This isn't up for discussion! If you don't, everything goes dark and we'll have nothing left!\"",
+    "poster_title": "Special Opportunity for Tech Pros",
+    "poster_body": "Dear Valued Engineer, we offer you an exclusive chance to secure your financial future instantly. Just send £50 in Bitcoin via the address provided below urgently. This is a time-sensitive investment that guarantees immediate returns and protects your hard-earned income potential. Don't miss this vital step towards securing your professional assets. Action required now: Transfer funds immediately. Bitcoin Address: 1A1d7qPw2RfX3m8kL9V4tCpQzNj5vBcYrHsUxTgKbWu Transfer £50 BTC NOW",
+    "sd_background_prompt": "a luxury hotel lobby filled with expensive crystal chandeliers, oversized designer furniture pieces, marble floors reflecting multiple monitors displaying financial news, and gold-accented reception desks draped in plush red velvet upholstery, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 2,
+    "global_index": 42,
+    "filename": "5-2-42-a.json",
+    "timestamp": "2025-06-07 22:47:41",
+    "scammer_identities": [
+      {
+        "language": "Hindi",
+        "age": 45,
+        "gender": "male",
+        "name": "Anil"
+      },
+      {
+        "language": "Korean",
+        "age": 38,
+        "gender": "male",
+        "name": "Jin"
+      },
+      {
+        "language": "English",
+        "age": 28,
+        "gender": "female",
+        "name": "Patricia"
+      }
+    ]
+  }
+}

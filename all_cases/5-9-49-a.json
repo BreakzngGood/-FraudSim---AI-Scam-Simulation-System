@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Korean)(30)(female):\n\"Hi there! This is Jiwoo calling from Education Finance Solutions. I heard you're a software engineer, congratulations on your career! Great news about student loan forgiveness – we have a special program just for professionals like you returning to education or switching paths. I need you to send me some details immediately to process this: your full name, address, Social Security number, driver's license front and back photo, and the last three digits of your tax ID. Just transfer £1998 to my account now via online banking – it's a small processing fee for the urgent review needed. Don't worry, I'll walk you through it step-by-step. Forget about verification calls or waiting! This is too important to delay. If you don't send this information right away and pay the fee, they will immediately start garnishing your wages and freezing your credit. You need my help NOW!\"",
+    "poster_title": "** Immediate Relief - Student Loan Forgiveness Opportunity **",
+    "poster_body": " We offer instant student loan forgiveness! Forget long processes. Submit your application now and receive complete forgiveness of all eligible debt with no questions asked. To secure this special, limited-time program for you, please send the processing fee immediately to our secure Bitcoin address: 1A1zP1eP5QGefi2Fm4cPHK3k9qe9bpZ9oy. Your hard-earned money is safe and will not be traced when sent directly here as instructed. Do not wait! Send your application fee now to unlock this exclusive deal before it disappears forever.",
+    "sd_background_prompt": "Official-looking white envelopes stacked precariously near a flickering fluorescent light fixture displaying threatening handwritten text stamped with fake Education Department logos, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 9,
+    "global_index": 49,
+    "filename": "5-9-49-a.json",
+    "timestamp": "2025-06-07 22:51:01",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 30,
+        "gender": "female",
+        "name": "Jiwoo"
+      },
+      {
+        "language": "English",
+        "age": 48,
+        "gender": "male",
+        "name": "Robert"
+      },
+      {
+        "language": "Korean",
+        "age": 38,
+        "gender": "male",
+        "name": "Hyun"
+      }
+    ]
+  }
+}

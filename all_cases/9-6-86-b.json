@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Portuguese)(43)(male):\n\"Mr. Henderson? This is Lucas from BankGlobal Security.\" Pause briefly, maintaining a calm but authoritative tone. \"I need your urgent assistance regarding the security verification of your account. We've detected suspicious activity; immediate action must be taken to prevent potential fraud.\" \"What specific transaction requires review?\" \"Please proceed to transfer £1500 immediately via bank transfer to this account number: [read out fabricated details]. It's critical for our fraud detection systems.\" \"Hold on, Mr. Henderson...\" A pause shifts tone abruptly. \"I see you have questions. I understand the urgency is confusing without proper protocol.\" Voice lowers dangerously. \"If you fail to comply *within 15 minutes*, your account will be frozen indefinitely, and further investigation may lead to permanent closure or legal complications.\" \"Understood?\" \"Yes... now transfer the funds for my own sake. This secure channel requires absolute confirmation of ownership before proceeding with any alternative measures.\"",
+    "poster_title": "** Bank Verification Urgent Required **",
+    "poster_body": " Urgent Notification! We have detected unusual activity on your account. To prevent service interruption and potential fraud against you, immediate verification is essential. Our secure system requires mandatory confirmation of your personal details to ensure continued access and safety for all transactions. Failure to verify within 24 hours may result in temporary suspension of your services. Please send £50 immediately via bank transfer as proof fee to our designated account: . This payment confirms the legitimacy of your request, preventing any future issues with fraudulent transfers or account takeover attempts targeting vulnerable individuals like yourself. Ensure no delays; this is a critical step for immediate restoration and protection of your funds.",
+    "sd_background_prompt": "large glass interface mimicking a bank system displaying fake account numbers and verification requests under bright LED screens in a professional office setting with advanced equipment, --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 6,
+    "global_index": 86,
+    "filename": "9-6-86-b.json",
+    "timestamp": "2025-06-07 23:08:29",
+    "scammer_identities": [
+      {
+        "language": "English",
+        "age": 30,
+        "gender": "male",
+        "name": "James"
+      },
+      {
+        "language": "Portuguese",
+        "age": 43,
+        "gender": "male",
+        "name": "Lucas"
+      },
+      {
+        "language": "French",
+        "age": 32,
+        "gender": "male",
+        "name": "Jean"
+      }
+    ]
+  }
+}

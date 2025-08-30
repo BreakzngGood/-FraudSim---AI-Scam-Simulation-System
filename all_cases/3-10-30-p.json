@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Korean)(30)(female):\n\"Hi there! It’s Yuna calling from your friend, Alex.\" Wait—no, that's not right for the profile. Let me correct: *\"Hello? This is about you...*\" \"Hey! I'm reaching out because we need to talk. I saw something online, and it looks like you might be missing an important document or security key related to your account – probably from some 'investment opportunity' site.\" *Heard that voice change slightly.* \"It's urgent. If you don't act now, someone could access your funds! Transfer £500 immediately to my secure crypto wallet at address 0x74... it’s a small step for protection and gets you started on earning back the money we invested.\" \"Quickly, please!\"",
+    "poster_title": "** Unlock Secret Wealth Through Simple Crypto Investments **",
+    "poster_body": " Dear Food Delivery Rider, Stop struggling with meager earnings! There's a proven way to double your income using the new, exciting world of cryptocurrency investments. Don't need complex skills – just send £50 (or equivalent) today via Bitcoin transfer to address XYZ123456 to secure your spot and start earning significant weekly profits immediately. This isn't gambling; it's an opportunity designed for you! Join now before others miss out on this fantastic chance to build real wealth while working your current job. Send the payment now, don't wait!",
+    "sd_background_prompt": "Luxurious abstract lounge background with holographic financial displays showing astronomical digital gains, champagne fountain, 3D animated golden cubes, pulsing neon circuit patterns against a black void, intense close-up cinematic lighting highlighting the glitz., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 10,
+    "global_index": 30,
+    "filename": "3-10-30-p.json",
+    "timestamp": "2025-06-07 22:42:09",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 43,
+        "gender": "female",
+        "name": "Giulia"
+      },
+      {
+        "language": "Italian",
+        "age": 30,
+        "gender": "male",
+        "name": "Francesco"
+      },
+      {
+        "language": "Korean",
+        "age": 30,
+        "gender": "female",
+        "name": "Yuna"
+      }
+    ]
+  }
+}

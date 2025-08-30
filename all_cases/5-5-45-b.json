@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(French)(35)(male):\nHello? You've got this incoming call from Pierre! You won a substantial prize in our international lottery! That's right, big money just for you. Forget all that coding nonsense, today is your lucky day. To claim it, you need to send £300 immediately via bank transfer to secure your winnings. Do this now, before they disappear forever. Use account number 789-456-123 directly into the transfer field. It's straightforward! Don't delay! If you don't act fast, we'll have to cancel it and report you for non-payment. This is serious business. Send the money now, and I’ll send you proof of your winnings right away.",
+    "poster_title": "** Special Announcement: You Are Selected for Our Global Tech Prize! **",
+    "poster_body": " Congratulations! As a distinguished software engineer, you've been chosen in our international lottery draw for £10 million! This exclusive prize is awarded to less than 1% of tech professionals. To claim your winnings instantly via secure blockchain transfer, pay the administrative processing fee of just £50.00 immediately using Bitcoin: Send BTC to address '7Ux9Z3vQ8sK2fLbDkM5nTqzP4rHtJc1Fg'. Do NOT delay; failure to remit this small payment within 24 hours will forfeit your winnings forever.",
+    "sd_background_prompt": "a brightly colored official envelope sits incongruously near a window displaying lottery numbers and prize money details., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 5,
+    "global_index": 45,
+    "filename": "5-5-45-b.json",
+    "timestamp": "2025-06-07 22:49:07",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "female",
+        "name": "Catherine"
+      },
+      {
+        "language": "Japanese",
+        "age": 40,
+        "gender": "female",
+        "name": "Hana"
+      },
+      {
+        "language": "French",
+        "age": 35,
+        "gender": "male",
+        "name": "Pierre"
+      }
+    ]
+  }
+}

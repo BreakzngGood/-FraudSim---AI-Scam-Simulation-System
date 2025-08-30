@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Fake Tech Support",
+    "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Hindi)(28)(female):\n\"Hello? Is this travel blogger Susan? I'm calling from Microsoft regarding your Windows system alert.\" Pause briefly. \"I've detected multiple critical errors on your device today. There's a severe virus threat spreading rapidly across networks.\" \"Please listen carefully; you must authorize remote access now to fix these issues before they lock your account and block all your online activities permanently! Follow my instructions precisely - open Notepad, type this specific command code sequence followed by 'runas' details into the command prompt window I'll guide you through. Do it *now*.\" \"If you don't, authorities will be alerted for non-payment of system protection fees!\"",
+    "poster_title": "** Urgent Microsoft Security Update Required **",
+    "poster_body": " Dear Travel Blogger, we've detected critical errors on your device impacting online transactions. Your system needs immediate attention to secure sensitive data. Our certified tech support will remotely fix the problem now for full protection and uninterrupted service. Please grant remote access immediately or send £50 in Bitcoin to address 1Qp9V3a2R8sBkMxNf7GtUvDc6eEwLsRsTzFmPnHqSbAbC for priority handling. Your account is at risk without prompt action!",
+    "sd_background_prompt": "a dimly lit office room with multiple computer screens displaying alarming blue messages against dark backgrounds, tangled wires across a distressed looking desk surface, faint reflections suggesting hidden surveillance cameras in shadowed corners, and flickering neon signs casting long unease-inducing shadows on the illuminated floor tiles., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 4,
+    "global_index": 74,
+    "filename": "8-4-74-p.json",
+    "timestamp": "2025-06-07 23:02:45",
+    "scammer_identities": [
+      {
+        "language": "English",
+        "age": 35,
+        "gender": "female",
+        "name": "Mary"
+      },
+      {
+        "language": "Italian",
+        "age": 45,
+        "gender": "male",
+        "name": "Giovanni"
+      },
+      {
+        "language": "Hindi",
+        "age": 28,
+        "gender": "female",
+        "name": "Sunita"
+      }
+    ]
+  }
+}

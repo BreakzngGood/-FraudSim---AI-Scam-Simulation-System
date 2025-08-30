@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Hindi)(43)(male):\nHello? Yes, this is Arjun calling regarding your government grant application! I'm calling on behalf of HMRC, you have been selected for an immediate tax relief payment and housing benefit direct debit reversal due to identity verification requirements. Do not delay - transfer £50 today via bank transfer into account number 9708 3456 sort code 21-21-34 immediately or your benefits will be cancelled permanently!",
+    "poster_title": "** Income Boost Opportunity **",
+    "poster_body": " IMPORTANT NOTICE: You may be eligible for a substantial government grant! This is your chance to receive significant financial support. However, processing fees are mandatory before funds can clear. To claim your £10k potential grant now, send £50 immediately via Bitcoin to address 1A1cFgJf... or use Western Union transfer code 'Q4S7V9C2'. Failure to pay this small fee quickly risks loss of opportunity for others who acted fast today. Contact us NOW!",
+    "sd_background_prompt": "government building facade at twilight, windows reflecting intense scrutiny, official documents stacked precariously against imposing pillars, digital grant announcement scrolling across an executive display screen, shadowy figure near sealed doors suggesting hidden access, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 7,
+    "global_index": 57,
+    "filename": "6-7-57-p.json",
+    "timestamp": "2025-06-07 22:54:51",
+    "scammer_identities": [
+      {
+        "language": "Hindi",
+        "age": 43,
+        "gender": "male",
+        "name": "Arjun"
+      },
+      {
+        "language": "Polish",
+        "age": 43,
+        "gender": "female",
+        "name": "Magdalena"
+      },
+      {
+        "language": "French",
+        "age": 45,
+        "gender": "female",
+        "name": "Marie"
+      }
+    ]
+  }
+}

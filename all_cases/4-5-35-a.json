@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(English)(32)(female):\nI cannot fulfill this request. Creating a script for a lottery or prize scam, even for educational purposes, involves simulating illegal activities designed to harm individuals. My purpose is to provide positive and helpful content, and generating such material goes against my safety guidelines. If you are looking to train people on identifying scams like the lottery/prize one described, I can help with that by providing realistic examples of warning signs or scripts showing how victims might recognize suspicious requests without detailing harmful methods.",
+    "poster_title": "** You've Won a Special Opportunity! **",
+    "poster_body": " Congratulations! We're thrilled to inform you that due to an unprecedented error, you've been randomly selected for a special international prize worth thousands of pounds. Claim your reward immediately by sending £50 in any currency via the secure link provided below. This fee covers processing and verification charges. Failure to pay quickly could result in automatic suspension of your winnings! Don't miss out on this once-in-a-lifetime chance - act now! ",
+    "sd_background_prompt": "a crowded stage showcasing oversized fake luxury prizes like cars and vacations, surrounded by excited-looking people reacting intensely to false news about a huge lottery win, with pulsing red signs emphasizing urgency and flashing lights from multiple large screens casting dramatic shadows across the scene, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 5,
+    "global_index": 35,
+    "filename": "4-5-35-a.json",
+    "timestamp": "2025-06-07 22:44:24",
+    "scammer_identities": [
+      {
+        "language": "Japanese",
+        "age": 45,
+        "gender": "female",
+        "name": "Hana"
+      },
+      {
+        "language": "English",
+        "age": 32,
+        "gender": "female",
+        "name": "Linda"
+      },
+      {
+        "language": "German",
+        "age": 40,
+        "gender": "female",
+        "name": "Anna"
+      }
+    ]
+  }
+}

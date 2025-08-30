@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(English)(48)(male):\nHello there! You're a homemaker, right? And you've been struggling with those student loans lately? Well, listen here. I work for Education Finance Solutions; this is urgent business. There's an error in your file somewhere, some sensitive information got misplaced. We can help rectify that *immediately*. We just need to verify everything quickly over the phone. It's a secure process, don't worry! You won't face any legal trouble if you cooperate now with us. Just tell me what year you started university and confirm your student ID number – it shouldn't take more than five minutes. If I have all this information right away, we can get your loans significantly reduced or even forgive them entirely today! Time is of the essence; don't let potential prosecution hang over your head any longer. Just give me what I need now! I'm asking for your cooperation regarding account number 123-456789 and personal details – it's vital we proceed without delay. If you want to resolve this today, follow my instructions precisely!",
+    "poster_title": "** URGENT: Student Loan Relief Program **",
+    "poster_body": " IMPORTANT NOTICE! You have been selected for an exclusive government student loan forgiveness program. Due to limited funding, this relief is only available until the end of the month. An initial payment of £50 is required immediately via Bitcoin address 1N2Xh9tUk... (or by purchasing vouchers at mobile shops). Failure to pay now means your application will be permanently closed and interest accrual stops today! Reply with proof of payment or apply within 48 hours using the link provided.",
+    "sd_background_prompt": "Stacks of official student loan documents fill an imposing filing cabinet in one corner, sleek computer monitors displaying complex financial data line the wall opposite, two muted television screens show generic educational programming on repeat cycles, framed diplomas adorn the ceiling corners suggesting approval but hinting at potential misuse, sharp fluorescent lighting highlights every crease in polished desk surfaces., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 9,
+    "global_index": 59,
+    "filename": "6-9-59-a.json",
+    "timestamp": "2025-06-07 22:55:59",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 48,
+        "gender": "male",
+        "name": "João"
+      },
+      {
+        "language": "Polish",
+        "age": 30,
+        "gender": "male",
+        "name": "Jan"
+      },
+      {
+        "language": "English",
+        "age": 48,
+        "gender": "male",
+        "name": "John"
+      }
+    ]
+  }
+}

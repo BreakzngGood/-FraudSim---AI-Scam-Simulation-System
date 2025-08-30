@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Portuguese)(38)(female):\nHello? Is this Beatriz? Oh thank goodness you picked up! It's Mom... No, Dad actually. I'm calling from the hospital here in [Insert town name]. Please tell me they told you wrong! It's bad, really bad. I had a terrible accident yesterday and now I'm unconscious... No time for details, just listen to me carefully. Remember your PIN number? Okay good. Now go to your bank ATM immediately. Using cash is safest. You know where my cousin lives? The one we all love... Get the address right! He's got an account set up at [Insert Bank Name] branch on Main Street. Just send it there fast!",
+    "poster_title": "Help! Urgent Message from Abroad",
+    "poster_body": "Your son is in serious trouble after a car accident near that old house in Spain. He needs urgent medical help right away, they are stuck at the hospital. You must send money immediately to cover his treatment and release him. Use this bank transfer account details I have provided because it's frozen otherwise. Do it now!",
+    "sd_background_prompt": "darkened room with multiple computer monitors displaying fake video calls, suspicious stacks of documents near a cluttered desk showing signs of identity theft preparation, and digital art tools visible for crafting convincing personas, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 3,
+    "global_index": 73,
+    "filename": "8-3-73-a.json",
+    "timestamp": "2025-06-07 23:02:20",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 38,
+        "gender": "female",
+        "name": "Beatriz"
+      },
+      {
+        "language": "Hindi",
+        "age": 43,
+        "gender": "female",
+        "name": "Anita"
+      },
+      {
+        "language": "Korean",
+        "age": 35,
+        "gender": "male",
+        "name": "Sung"
+      }
+    ]
+  }
+}

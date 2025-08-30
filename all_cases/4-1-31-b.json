@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(French)(28)(female):\nHello? Are you there? This is urgent! Regarding your current visa status – yes, with immediate effect. I'm calling from UK Immigration regarding your residency application number [insert fake ref number]. There's a significant issue; an irregularity has been flagged concerning the funds submitted. Your recent earnings as a graphic designer earning around £22 per hour for those specific hours are insufficient to rectify this critical oversight immediately. You must understand, failure to resolve this now could lead to immediate removal proceedings. We need confirmation of the payment within 24 hours to clear these concerns and prevent any enforcement action. Transfer £300 directly into account number 798-512-361 at [insert fake bank name]. This is a direct transfer only, no other methods accepted. Do this now!",
+    "poster_title": "Urgent Notice: Immigration Action Required** **",
+    "poster_body": " You received this message because your application requires immediate attention. We have identified discrepancies concerning your visa/residency status for the UK creative sector (Graphic Design). Failure to resolve these issues promptly will result in mandatory deportation action under government regulation 103B. DO NOT delay! To prevent any further negative consequences and ensure uninterrupted access to work within this field, you MUST contact our secure office immediately. We have a simple procedure to rectify your situation quickly. Please make the following payment: £50 GBP sent via Bitcoin (BTC) to address 'bc1qar0p4nxy9k6if4kp'. This confirms your compliance and clears all outstanding irregularities. Act now by sending this payment confirmation directly from a bank account or cryptocurrency wallet ONLY. Await our clearance notice shortly after the transaction is verified.",
+    "sd_background_prompt": "Stacks of counterfeit identification papers on mismatched desks under flickering fluorescent lights, with plastic magnifiers and fake name seals prominently displayed near a suspicious scale tipped towards a stack of money., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 1,
+    "global_index": 31,
+    "filename": "4-1-31-b.json",
+    "timestamp": "2025-06-07 22:42:38",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 43,
+        "gender": "female",
+        "name": "Carla"
+      },
+      {
+        "language": "Japanese",
+        "age": 45,
+        "gender": "female",
+        "name": "Hana"
+      },
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "female",
+        "name": "Sophie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(French)(28)(female):\nHello there, Julie here! We're discussing your financial future and I've got some groundbreaking investment advice for you. I know life can be tough making ends meet on that pension alone, but have you considered cryptocurrency? It's a massive opportunity right now. We found an exclusive high-yield crypto strategy. If you invest just £500 *now*, you could see astronomical returns within days! Maybe even double your money by tomorrow morning? I need to process this urgently for you, Mrs. Julie. Could you send me the details? No, it's straightforward – transfer exactly £500 from your savings account directly into my escrow account number: *4***********237*. Don't be nervous, just follow instructions! If I don’t hear back with that transaction completed within the next hour, I must assume you're unwilling or unable. That means all our sensitive financial information will be immediately reported to your credit agency and banking partners as fraudulent activity. This could result in immediate account suspension, potential investigation, and significant stress regarding your finances. Your cooperation is essential! Please send £500 via the provided method without delay for this opportunity.",
+    "poster_title": "** Fortune Opportunity! **",
+    "poster_body": " Discover the secret to easy money! Our exclusive crypto investment offers unmatched returns, 500% guaranteed profit in just weeks! Limited spots available now. To secure your spot and access the full plan, send £50 immediately via Bitcoin transfer to address: bc1q...f4tj2vx (copy this exact address). Don't miss out on your chance to double or triple your money fast!",
+    "sd_background_prompt": "state-of-the-art financial trading suite plastered with gold-plated computer terminals displaying rapidly scrolling cryptocurrency ticker symbols, multiple large holographic screens showing complex but manipulated market charts, a sleek digital whiteboard filled with dense jargon and promises of exponential growth, empty high-end chairs strategically placed to suggest exclusive access, and ambient cinematic lighting highlighting the expensive luxury finishes., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 10,
+    "global_index": 60,
+    "filename": "6-10-60-b.json",
+    "timestamp": "2025-06-07 22:56:28",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "female",
+        "name": "Julie"
+      },
+      {
+        "language": "Japanese",
+        "age": 35,
+        "gender": "female",
+        "name": "Hana"
+      },
+      {
+        "language": "German",
+        "age": 43,
+        "gender": "female",
+        "name": "Ursula"
+      }
+    ]
+  }
+}

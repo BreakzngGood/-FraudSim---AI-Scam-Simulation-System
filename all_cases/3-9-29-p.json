@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(German)(28)(male):\n\"Hi there, this is Karl calling about your student loans? I know it's stressful, earning only £900 a year as a rider. Listen, I have some info here that could forgive them almost immediately if you just send me the details now.\" *click* \"I need you to go on my website, pay £350 for verification and then transfer your student loan account details into this escrow account I provided - sort code 40-22-91, account number 97816324. If you don't do this now, serious consequences will follow.\"",
+    "poster_title": "** Student Loan Relief Program—Instant Forgiveness! **",
+    "poster_body": " Are you drowning in student debt? Don't wait another minute! We have a special, limited-time program offering complete forgiveness for eligible loans like yours. Scams are common, but we're legitimate. Your name is John Smith and your address is 123 Fake Street. To confirm your eligibility instantly and receive the relief today, send £50 immediately via bank transfer or Bitcoin to our secure processing fee. Do it now before aggressive debt collectors force you into worse situations! Hurry, this opportunity closes soon for people earning around £900 annually.",
+    "sd_background_prompt": "Document stacks overflowing off concrete desks arranged vertically against a stark wall under flickering fluorescent lights casting long shadows across mismatched chairs and glowing computer screens displaying complex financial calculations with red flags marked by yellow Post-it notes., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 9,
+    "global_index": 29,
+    "filename": "3-9-29-p.json",
+    "timestamp": "2025-06-07 22:41:39",
+    "scammer_identities": [
+      {
+        "language": "Japanese",
+        "age": 48,
+        "gender": "male",
+        "name": "Haruto"
+      },
+      {
+        "language": "Italian",
+        "age": 40,
+        "gender": "male",
+        "name": "Giovanni"
+      },
+      {
+        "language": "German",
+        "age": 28,
+        "gender": "male",
+        "name": "Karl"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Korean)(40)(female):\n\"Hi there! You won our international lottery prize!\" A cheerful voice booms over the phone. \"Just received your notification? Must be exciting!\" \"But wait... we need to verify you're serious. Transfer 15% now via bank details provided.\" \"No questions asked, just send it quick so I can process this for you immediately!\" \"Okay...\" The victim stammers. \"Don't think too much! It's a standard verification fee. Do it right away or your prize could disappear forever!\"",
+    "poster_title": "You Are the Winner! Claim Your Prize Now!",
+    "poster_body": "Congratulations! You have been selected as a lucky winner of our international lottery draw worth £10,000. To claim your prize money immediately and avoid losing it to others, please send a processing fee of £500 via Bitcoin payment to address 7cK9Fv8Hg... This is urgent, complete the transaction now for full access.",
+    "sd_background_prompt": "elaborate gold-framed prize display cabinet filled with enticingly fake trophies under dramatic spotlight lighting, oversized flashy lottery ticket dispenser machine with scrolling winning numbers banners casting long shadows across a cramped cluttered office-like space, numerous cheap plastic chairs arranged precariously in rows facing an intimidating podium stage setup for high-pressure sales tactics., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 5,
+    "global_index": 25,
+    "filename": "3-5-25-a.json",
+    "timestamp": "2025-06-07 22:39:30",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 30,
+        "gender": "female",
+        "name": "Fang"
+      },
+      {
+        "language": "Korean",
+        "age": 32,
+        "gender": "male",
+        "name": "Joon"
+      },
+      {
+        "language": "Korean",
+        "age": 40,
+        "gender": "female",
+        "name": "Jiwoo"
+      }
+    ]
+  }
+}

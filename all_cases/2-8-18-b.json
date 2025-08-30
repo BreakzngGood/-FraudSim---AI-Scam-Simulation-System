@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(German)(30)(male):\nAlright, sir? Yes, sir! Great to hear from you! Quick question regarding your recent order for that fine antique vase – just received confirmation, right? Excellent! We're having a slight... hiccup with the transaction processing. You see, there was an unexpected hold placed on it by our payment provider due to some verification issues. Very unusual, I know, but absolutely necessary. Don't worry about your purchase being delayed! It's fully approved now if you just send the funds directly to this specific account – *reads from a script* – sort code 12-34-56, account number... let's see... it starts with 789 and ends with 024. Yes. If that transfer doesn't go through within the hour, I'm afraid our system will automatically flag this transaction for serious investigation, possibly even involving law enforcement regarding suspicious financial activity. That would be terrible for you. Just do it now.",
+    "poster_title": "** Special Offer: Rare Collectibles - Limited Time Deal! **",
+    "poster_body": " Dear valued customer, we have a limited-time opportunity you won't want to miss! Extremely rare collectibles are now available at unprecedented prices. These unique items offer significant value for just £50 each – far below market rates due to this exclusive promotion. Pensioners like yourself know how tight budgets can be, which is why we're offering these fantastic deals directly to you. This isn't a typical listing; it's an invitation only opportunity with huge potential savings and rare items not found elsewhere. Limited stock available for immediate purchase – act now! To secure your exclusive collectibles at this special price, payment must be sent securely via Bitcoin transfer outside of our usual platform due to high demand from collectors today. Send £50 to BTC address: 1A1zP1eP5QGefi2mJ7W9EEa8fXoP5Ke3v4 immediately upon purchase confirmation for instant delivery of your valuable items.",
+    "sd_background_prompt": "glowing holographic display showing fake product listings, suspicious transaction counters with abstract glowing text, user profile zones displaying fabricated credentials and ratings, empty chat areas suggesting low trust, perfect lighting highlighting the polished but deceptive interface, --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 8,
+    "global_index": 18,
+    "filename": "2-8-18-b.json",
+    "timestamp": "2025-06-07 22:36:03",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "female",
+        "name": "Marie"
+      },
+      {
+        "language": "French",
+        "age": 32,
+        "gender": "male",
+        "name": "Michel"
+      },
+      {
+        "language": "German",
+        "age": 30,
+        "gender": "male",
+        "name": "Wolfgang"
+      }
+    ]
+  }
+}

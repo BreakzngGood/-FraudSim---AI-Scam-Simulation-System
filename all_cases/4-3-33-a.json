@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Italian)(43)(female):\nOkay, Grandma, you're the best! Remember how much I love you? Things have been so tough here lately; honestly, really tough. I'm calling from my phone right now because it's urgent, super urgent! Something awful just happened. There was a terrible car accident nearby – scary stuff, isn't it? My cousin in Spain needs your help *right away*. We were close, like family. But the situation is bad, and I need money fast to take care of emergencies. Please, you know how much I rely on you. Transfer £500 immediately to my account; don't ask questions! It's under sort code 12-34-56, account number starts with 789... just do it quickly! If this doesn't happen soon, they'll find out and be very angry. They won't understand why you didn't help your family in their time of need. Don't make things worse for me or them!",
+    "poster_title": "** Urgent Call - Your Grandchild Needs Help! **",
+    "poster_body": " Hello! It's me, your grandchild. Something terrible has happened; I'm in big trouble and injured badly right now. We need money fast for emergency medical treatment abroad. You have to send help immediately via bank transfer or direct deposit into this specific account: . Alternatively, use the cryptocurrency address provided below if you prefer quick privacy. Show your support by sending funds urgently as instructed; don't delay their safety requires immediate action now!",
+    "sd_background_prompt": "Older home interior dominated by faded floral wallpaper, cluttered dark wood furniture draped in dust sheets, floor-to-ceiling windows casting dim afternoon light through cobwebs., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 3,
+    "global_index": 33,
+    "filename": "4-3-33-a.json",
+    "timestamp": "2025-06-07 22:43:32",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 45,
+        "gender": "female",
+        "name": "Minji"
+      },
+      {
+        "language": "Italian",
+        "age": 45,
+        "gender": "female",
+        "name": "Laura"
+      },
+      {
+        "language": "Italian",
+        "age": 43,
+        "gender": "female",
+        "name": "Chiara"
+      }
+    ]
+  }
+}

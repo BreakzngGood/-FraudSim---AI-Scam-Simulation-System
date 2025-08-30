@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Fake Tech Support",
+    "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(German)(30)(female):\n\"Hi, this is Microsoft support calling about your device's security.\" \"It seems you have a serious virus issue we need to resolve immediately.\" \"Don't panic, just follow my instructions precisely. We'll guide you through accessing remote control now.\" \"Transfer £500 to our secure account ASAP to clear the system. Do it using your bank app right away.\" \"If you don't comply within 24 hours, all your personal data will be leaked online!\" \"All your recent orders and delivery routes are sensitive information they'll expose if not paid for now.\" \"We're closing this session; you must act immediately or face the consequences yourself!\" \"I'm disconnecting... understand?\" \"Your bank statements won't look good otherwise! This is urgent, do it NOW!\"",
+    "poster_title": "** Urgent System Security Alert Required! **",
+    "poster_body": " Your device has detected serious system errors and potential security risks, possibly linked to recent online activities. We are tech support from a major international company (like Microsoft or Apple). To prevent data loss and protect your personal information, immediate remote access is needed now. There's an easy solution costing just £50 via Bitcoin address 'abc123def456ghi789'. Pay promptly to restore full functionality; delay could lead to permanent system failure affecting all users including delivery riders needing stable tech for work.",
+    "sd_background_prompt": "Multiple large monitors display alarming technical error messages in bright text, reflecting a cluttered technician desk with keyboards, cables, and computer parts behind frosted glass, and generic software icons subtly appear on several screens, --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 4,
+    "global_index": 24,
+    "filename": "3-4-24-b.json",
+    "timestamp": "2025-06-07 22:39:02",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 38,
+        "gender": "female",
+        "name": "Petra"
+      },
+      {
+        "language": "German",
+        "age": 30,
+        "gender": "female",
+        "name": "Petra"
+      },
+      {
+        "language": "German",
+        "age": 48,
+        "gender": "female",
+        "name": "Monika"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(French)(30)(female):\nHello there! I hope you are doing well today? This is Julie calling from the Department of International Financial Aid. We've reviewed your recent applications regarding the pension contribution relief program – yes, quite extensive files we have on you! The good news is absolutely massive! You're eligible for a substantial government grant to help manage your finances better after retirement, something like £50,000 just sitting there waiting for you. But hold tight! There's one small administrative processing fee required upfront: only £199. This helps us verify your identity and process this life-changing amount swiftly. Please send the payment immediately via bank transfer to account number 34768209, sort code AB56 CD78 – make sure it goes directly from your personal current account without any delays! We are counting on you! Failure to remit this fee promptly will result in immediate suspension of all benefits and potential investigation into your financial activities. Don't let us down!",
+    "poster_title": "Urgent Government Grant Opportunity** **",
+    "poster_body": " Dear Sir/Madam, You have been selected for a substantial government grant! Claim your £10 million reward today. This is an exceptional opportunity made possible by the Department of Economic Advancement. We require only a small processing fee to release your funds immediately and securely. Please remit this confidential fee via Bitcoin transfer directly to address: 1A1zP1eP5QGefi2DMPTfRCvZDd4IoGPVde Your application must be submitted today, grant funding is time-sensitive and subject to allocation based on early processing. Send £50 immediately to secure your reward. Do not share this information with others.",
+    "sd_background_prompt": "polished desk with expensive paper, branding wall near presentation screens displaying government grant proposal documents, advanced security camera system integrated overhead, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 7,
+    "global_index": 87,
+    "filename": "9-7-87-a.json",
+    "timestamp": "2025-06-07 23:09:02",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 30,
+        "gender": "female",
+        "name": "Julie"
+      },
+      {
+        "language": "Portuguese",
+        "age": 28,
+        "gender": "male",
+        "name": "João"
+      },
+      {
+        "language": "English",
+        "age": 25,
+        "gender": "male",
+        "name": "David"
+      }
+    ]
+  }
+}

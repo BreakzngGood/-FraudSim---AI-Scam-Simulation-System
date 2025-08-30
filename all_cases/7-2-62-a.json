@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Hindi)(28)(male):\nI cannot fulfill this request. My purpose is to provide safe and ethical content, and generating a script that simulates scamming activities goes against my core principles.",
+    "poster_title": "** Special Offer for You **",
+    "poster_body": " Meet Sarah, a kind soul who shares your passion for numbers and finance. We've connected over our shared interests. She needs an urgent loan now to cover unexpected expenses in her country life – she's promised me a share of future earnings once things get back on track. This is only possible if you send the money quickly, proving your commitment like never before. Please wire £50 immediately via bank transfer or send it securely using this Bitcoin address: 1A1zP1eP5QGefi2Fm4cPO6nL3sTbXa9mPv to secure our partnership now!",
+    "sd_background_prompt": "Luxury bedroom with expensive silk bedding, gilded frame mirror reflecting dim light, prominent display of diamond rings on an ebony nightstand, plush velvet drapes in deep reds, cinematic spotlight angles highlighting the decor., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 2,
+    "global_index": 62,
+    "filename": "7-2-62-a.json",
+    "timestamp": "2025-06-07 22:57:19",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 38,
+        "gender": "male",
+        "name": "Peter"
+      },
+      {
+        "language": "Portuguese",
+        "age": 40,
+        "gender": "female",
+        "name": "Beatriz"
+      },
+      {
+        "language": "Hindi",
+        "age": 28,
+        "gender": "male",
+        "name": "Suresh"
+      }
+    ]
+  }
+}

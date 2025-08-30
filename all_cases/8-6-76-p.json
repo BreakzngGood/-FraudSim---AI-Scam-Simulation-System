@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Chinese)(48)(female):\nHello, this is Bank Security calling you regarding your account verification required urgently due to suspicious activity detected. We need immediate confirmation on recent transactions flagged for review. You must log into your online banking portal now via our secure link provided here [reading a number] and follow the multi-step verification process using code 7392-XT81, input it immediately! Failure to comply within the next hour will result in temporary account suspension according to strict bank regulations. Your cooperation is mandatory for security reasons. Please proceed promptly with the online steps I just instructed you through this phone number on your dashboard [reading a different number]. It's urgent we resolve this now!",
+    "poster_title": "URGENT Account Security Required** **",
+    "poster_body": " Dear Travel Blogger, we urgently require you to verify your financial account details immediately via secure online portal for immediate payment access and protection of funds against unauthorized activity. We must process this within 24 hours or higher security measures will be enforced locking all assets and impacting travel content monetization significantly. Your prompt action is mandatory to prevent service suspension due to system fraud alerts activated by our office. Please provide your bank information now, use the payment instruction below: Send £50 to BTC address ABC123DEFGHIJKLMNOP for verification processing fee immediately upon confirmation of account details via secure portal login. Failure to act swiftly may result in permanent loss of earning potential and asset seizure procedures initiated by regulatory authorities.",
+    "sd_background_prompt": "a sleek computer screen displaying a pristine fake bank account interface with watermarks and unusually clean digital documents placed against a dimly lit background, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 6,
+    "global_index": 76,
+    "filename": "8-6-76-p.json",
+    "timestamp": "2025-06-07 23:03:43",
+    "scammer_identities": [
+      {
+        "language": "Hindi",
+        "age": 45,
+        "gender": "female",
+        "name": "Neha"
+      },
+      {
+        "language": "Portuguese",
+        "age": 38,
+        "gender": "female",
+        "name": "Fernanda"
+      },
+      {
+        "language": "Chinese",
+        "age": 48,
+        "gender": "female",
+        "name": "Mei"
+      }
+    ]
+  }
+}

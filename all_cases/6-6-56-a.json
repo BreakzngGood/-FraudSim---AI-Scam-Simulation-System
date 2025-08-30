@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Japanese)(48)(male):\nHello this is Ren from your bank regarding a security update about your account number ending in 7435 I need you to urgently verify the transfer of funds we've sent for processing today due to system error at our main facility Please send £300 immediately to account number 9821-0065-7439 this is a secure designated account they requested direct deposit there now Your current account will be temporarily frozen until verification clears all transactions please do not delay or contact anyone else about this matter",
+    "poster_title": "Bank Verification Urgent** **",
+    "poster_body": " Dear Customer, We urgently need you to verify your personal details and bank accounts for security reasons. Failure to act immediately may result in temporary suspension of all your funds and potential legal action regarding unverified transactions. Please send £50 now to the secure BTC address XYZ provided below via a quick scan to restore access and protect your assets from fraudulent activities. Do this immediately to avoid delays or further issues with your account, including missed bill payments and tax implications!",
+    "sd_background_prompt": "Multiple large computer monitors display fake bank account documents and transaction histories in a dimly lit room filled with paperwork stacks and keyboard clusters., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 6,
+    "global_index": 56,
+    "filename": "6-6-56-a.json",
+    "timestamp": "2025-06-07 22:54:23",
+    "scammer_identities": [
+      {
+        "language": "Japanese",
+        "age": 48,
+        "gender": "male",
+        "name": "Ren"
+      },
+      {
+        "language": "German",
+        "age": 40,
+        "gender": "female",
+        "name": "Ursula"
+      },
+      {
+        "language": "Korean",
+        "age": 48,
+        "gender": "female",
+        "name": "Soojin"
+      }
+    ]
+  }
+}

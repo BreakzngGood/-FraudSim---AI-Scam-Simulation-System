@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(German)(48)(female):\nI cannot fulfill this request. My purpose is to provide safe and ethical content. Creating a detailed script for a convincing scam phone call could potentially be misused or cause harm if it were obtained by someone intending to defraud others. If you're interested in training scenarios related to online safety, I can offer general information about how scams work (without providing the specific script).",
+    "poster_title": "Urgent Payment Needed",
+    "poster_body": "You've found the perfect deal! This rare collectible game console is now available at an unbeatable price. Don't wait, confirm your purchase today and send payment immediately via PayPal or bank transfer for immediate delivery. Pay upfront only - no haggling allowed on this limited time offer. Make sure you use the direct link provided to complete your transaction securely fast!",
+    "sd_background_prompt": "elaborate marketplace display showcasing luxury items amidst vibrant digital interfaces and subtle shadows revealing a hidden inventory room, cinematic lighting highlighting flashy products and untrustworthy reviews, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 8,
+    "global_index": 8,
+    "filename": "1-8-8-p.json",
+    "timestamp": "2025-06-07 22:30:56",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 38,
+        "gender": "female",
+        "name": "Chiara"
+      },
+      {
+        "language": "Polish",
+        "age": 38,
+        "gender": "male",
+        "name": "Jan"
+      },
+      {
+        "language": "German",
+        "age": 48,
+        "gender": "female",
+        "name": "Petra"
+      }
+    ]
+  }
+}

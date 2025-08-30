@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Chinese)(30)(male):\nHello, this is the UK Immigration Service calling regarding your visa application. I've received a notification about discrepancies concerning your residency status here in England. It seems you might have missed crucial documentation for your work permit renewal. We need to verify your situation immediately and take necessary action against any irregularities found. To prevent further complications and potential legal issues, including immediate removal from the country, we require upfront payment of £800 as a temporary processing fee or authorization bond pending our review. You must transfer this money today directly into the official government account provided on my secure message. Failure to do so will result in serious consequences for your work authorization here and potential deportation proceedings.",
+    "poster_title": "Urgent Action Required for Your Immigration Status",
+    "poster_body": "You have a serious issue with your visa/residency application at this moment. We require immediate payment of £500 to activate your pending visa and prevent deportation. Failure to remit this fee within 24 hours will result in the cancellation of all applications, including work permits. Do not delay! Send funds via bank transfer immediately from a dedicated account for processing fees only. If approved now, you can continue working legally until resolution. Your prompt action is crucial.",
+    "sd_background_prompt": "Modern reception area dominated by clean, shiny laminated surfaces displaying official seals and framed certificates, overly clinical lighting casting elongated shadows from high ceiling fluorescent fixtures onto a sparse desk arrangement., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 1,
+    "global_index": 41,
+    "filename": "5-1-41-a.json",
+    "timestamp": "2025-06-07 22:47:16",
+    "scammer_identities": [
+      {
+        "language": "Japanese",
+        "age": 28,
+        "gender": "female",
+        "name": "Yui"
+      },
+      {
+        "language": "French",
+        "age": 32,
+        "gender": "male",
+        "name": "Michel"
+      },
+      {
+        "language": "Chinese",
+        "age": 30,
+        "gender": "male",
+        "name": "hao"
+      }
+    ]
+  }
+}

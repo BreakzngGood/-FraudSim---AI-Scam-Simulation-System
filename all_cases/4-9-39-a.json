@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Japanese)(40)(male):\n\"Hi there! Sorry to bother you, but I need a quick chat about your student loan situation? It’s been brought to my attention that you might be eligible for immediate forgiveness – no calculations needed. We can clear everything instantly.\" \"Now, before we proceed, could you please just send me the details of your account via text right now? Or confirm what looks like suspicious activity on our end? Just so I can ensure there's no mix-up.\" \"Okay, great! And to make sure all this is absolutely official and nothing gets lost in translation... would you mind transferring a small verification fee straight away? It’s just £500 to cover the processing costs – we'll get that back once everything is sorted. Hurry up!\"",
+    "poster_title": "** Student Loan Relief Now! **",
+    "poster_body": " You've been contacted. We offer immediate student loan forgiveness or reduction in exchange for your quick action. Stop the financial pain NOW! Visit our secure website (not shown) to confirm eligibility and receive instructions via private email: . Pay a small fee upfront of £50 to activate this urgent relief program today only, using Bitcoin sent securely to address 1A1zP1eP5QGefi2FmSoywptmiJbY9tqk. Contact us immediately at +447987654321 for details and proof we are legitimate. Hurry before this opportunity closes!",
+    "sd_background_prompt": "Desks filled with fake diplomas and binders stacked high under harsh fluorescent lights in a dimly lit office waiting area, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 9,
+    "global_index": 39,
+    "filename": "4-9-39-a.json",
+    "timestamp": "2025-06-07 22:46:19",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 30,
+        "gender": "female",
+        "name": "Mei"
+      },
+      {
+        "language": "Japanese",
+        "age": 40,
+        "gender": "male",
+        "name": "Ren"
+      },
+      {
+        "language": "Portuguese",
+        "age": 48,
+        "gender": "male",
+        "name": "Rafael"
+      }
+    ]
+  }
+}

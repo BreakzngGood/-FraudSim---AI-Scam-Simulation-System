@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(English)(32)(male):\n\"Robert here, just checking on some initial paperwork.\" \"We received your application, Robert seems everything is proceeding smoothly.\" \"However,\" I paused dramatically, lowering my voice slightly before raising it again with urgency. \"Robert recent communications indicate there was a slight discrepancy noted during verification.\" \"This requires immediate attention to prevent complications.\" \"Kindly update your contact details and also verify the initial payment made for your application processing fee.\" \"Please send £350 GBP via Western Union transfer immediately, Robert must go into that specific account I mentioned earlier.\" \"Failure to comply within 24 hours will result in serious consequences. We'll need to escalate this matter.\" \"Robert understand? This is urgent. Your current status requires immediate rectification before any issues arise. Send the funds now!\"",
+    "poster_title": "URGENT NOTICE IMMEDIATE ACTION REQUIRED",
+    "poster_body": "We are immigration services. Your visa status requires immediate attention due to an urgent administrative issue discovered in your application file. This matter needs resolution before a serious consequence occurs. To rectify this, you must immediately pay £500 for the verification process and avoid any legal penalties including potential deportation. Send payment without delay to prevent enforcement action against you. Please send cash directly to Mr. John Smith at 123 High Street, London ASAP. Your application cannot be processed until we receive confirmation of funds via this method by noon today. Failure to act swiftly on your own will lead to immediate removal from the UK under current regulations. Do not wait for official documentation or further notice. Send payment immediately as requested!",
+    "sd_background_prompt": "Modern glass-fronted building with warm, inviting lighting inside through large windows showing a pleasant park-like scene outside, glossy laminated forms displayed on sleek counters under soft professional ceiling lighting, empty comfortable chairs arranged neatly opposite the reception desk where people might wait unseen, subtle gold trim highlighting architectural details suggesting quality and importance to the viewer., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 1,
+    "global_index": 1,
+    "filename": "1-1-1-a.json",
+    "timestamp": "2025-06-07 22:27:32",
+    "scammer_identities": [
+      {
+        "language": "English",
+        "age": 32,
+        "gender": "male",
+        "name": "Robert"
+      },
+      {
+        "language": "Chinese",
+        "age": 45,
+        "gender": "male",
+        "name": "Wei"
+      },
+      {
+        "language": "Chinese",
+        "age": 32,
+        "gender": "female",
+        "name": "Mei"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Chinese)(25)(male):\nHello? You're speaking with immigration services! Your visa documentation has been flagged! We've detected an error during our routine checks. I'm calling because we need immediate action regarding your residency status. This is a priority case. To prevent any serious consequences or deportation proceedings, you must resolve this immediately by making a payment. Transfer £2500 into the account number 4****6789 directly from your bank using the reference provided: Your Full Name - Case Number [DOESN'T EXIST]. Do it now. Failure to comply will result in immediate enforcement action and removal from the UK without appeal or notice. This is urgent!",
+    "poster_title": "Urgent Notice Regarding Your Immigration Status",
+    "poster_body": "Dear Travel Blogger Wei, an urgent irregularity has been detected concerning your visa documentation. To prevent immediate deportation and secure your legal right to remain in the UK, you must resolve this issue forthwith. Following standard procedures requires a fee of £500. Please remit payment immediately via Bitcoin at address bc1qare3v7p9k9l5utkjvq8f6dcue4nsxy5s75qg to ensure your case is processed today. Failure to comply will result in enforcement action.",
+    "sd_background_prompt": "Polished government-style office building facade, sleek dark interior hallway with laminated \"immigration services\" signage displayed prominently on the wall near stacks of fake identity documents spread across a clean reception desk surface., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 1,
+    "global_index": 71,
+    "filename": "8-1-71-a.json",
+    "timestamp": "2025-06-07 23:01:29",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 25,
+        "gender": "male",
+        "name": "Wei"
+      },
+      {
+        "language": "Hindi",
+        "age": 40,
+        "gender": "female",
+        "name": "Kavita"
+      },
+      {
+        "language": "Korean",
+        "age": 35,
+        "gender": "female",
+        "name": "Soojin"
+      }
+    ]
+  }
+}

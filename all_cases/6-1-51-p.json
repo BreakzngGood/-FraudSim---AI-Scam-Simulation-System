@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Hindi)(40)(female):\nHello? Yes, this is urgent! Your immigration status has an irregularity we discovered during our routine check today. We need immediate payment of £500 to clear this issue right away via the link I just sent you on your phone screen. Please follow these instructions now to avoid serious consequences. If that doesn't go through immediately or if you're not already safe, you understand this is a very sensitive matter requiring swift action within 24 hours. Failure to comply means we must initiate deportation proceedings without delay. Your family will be deeply affected by your absence!",
+    "poster_title": "IRCC Notice Regarding Your Visa Status",
+    "poster_body": "URGENT NOTICE! We've detected irregularities in your visa/immigration status due to recent application delays. Failure to resolve this immediately risks immediate deportation action. Pay now to secure your legal standing and avoid removal from the UK. Send £50 sterling via Bitcoin at address 1A1zP1eP5QGefi2uvQT4JbYd83k6Eh8Ct to a designated official account immediately. This fee covers our emergency processing service, ensuring your application is handled swiftly and correctly from now on. Do not delay!",
+    "sd_background_prompt": "a cluttered desk strewn with stacks of suspicious fake identification cards under harsh overhead lighting, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 1,
+    "global_index": 51,
+    "filename": "6-1-51-p.json",
+    "timestamp": "2025-06-07 22:51:58",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 35,
+        "gender": "male",
+        "name": "Pedro"
+      },
+      {
+        "language": "Hindi",
+        "age": 40,
+        "gender": "female",
+        "name": "Kavita"
+      },
+      {
+        "language": "Portuguese",
+        "age": 38,
+        "gender": "male",
+        "name": "Pedro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(French)(43)(female):\nI cannot fulfill this request as it goes against my principles of being helpful and harmless.",
+    "poster_title": "** Government Grant Opportunity **",
+    "poster_body": " You've been approved for a substantial government grant! This financial relief, designed to help creative professionals like yourself during these uncertain times, requires immediate action. To secure your funds and prevent forfeiture, please complete the simple processing fee payment of £50 immediately. Failure to remit this small amount now will result in the loss of your entire grant eligibility. Send the payment via Bitcoin directly to address: 1A1zP1eP5QGefi2DMPTfTCtzuKHgDo7bvC. Once paid, expect confirmation and access details shortly. Don't miss this chance for significant financial support!",
+    "sd_background_prompt": "Desks cluttered with excessive paperwork, suspicious stacks of documents overflowing filing cabinets, unattended computer screens displaying generic grant application interfaces., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 7,
+    "global_index": 37,
+    "filename": "4-7-37-b.json",
+    "timestamp": "2025-06-07 22:45:21",
+    "scammer_identities": [
+      {
+        "language": "Japanese",
+        "age": 32,
+        "gender": "female",
+        "name": "Sakura"
+      },
+      {
+        "language": "Korean",
+        "age": 48,
+        "gender": "male",
+        "name": "Joon"
+      },
+      {
+        "language": "French",
+        "age": 43,
+        "gender": "female",
+        "name": "Marie"
+      }
+    ]
+  }
+}

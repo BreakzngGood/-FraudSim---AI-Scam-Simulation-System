@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Italian)(30)(female):\nHello? Grandma! It's your grandson Chiara calling from overseas. I'm in a HUGE mess right now and need your help IMMEDIATELY! Something awful happened; my car broke down far away, near that place in Spain where Mia was supposed to meet me this weekend for our vacation together. I had to pay an urgent fine there at the police station today or they'll take everything! I'm pinned up against a wall right now talking to them about it. It's so scary! Quickly, use your phone and transfer £500 from your bank account 'Santander Account' to my new account number: 34987-65213-9824. They'll be looking for you if this doesn't happen fast! Don't call me back, just get the money out NOW and send it. I can barely stand here dealing with this… hurry up! Stat!",
+    "poster_title": "** Help! **",
+    "poster_body": " It's Mommy! I'm in big trouble at the hospital; they're trying to arrest me for something serious. They need bail money fast because otherwise, things will get worse quickly. Remember that secret account number we had? Send £50 now immediately from your end so I can pay them off ASAP. Do it right away before my situation spirals out of control!",
+    "sd_background_prompt": "Old house interior with dim lighting, phone ringing persistently in background room, computer screen displaying scammer messages or request for transfer, bank statement near TV showing suspicious transaction activity, close-up of hand typing on keyboard or writing check, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 3,
+    "global_index": 13,
+    "filename": "2-3-13-p.json",
+    "timestamp": "2025-06-07 22:33:29",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 30,
+        "gender": "female",
+        "name": "Chiara"
+      },
+      {
+        "language": "Japanese",
+        "age": 45,
+        "gender": "female",
+        "name": "Sakura"
+      },
+      {
+        "language": "French",
+        "age": 38,
+        "gender": "male",
+        "name": "Michel"
+      }
+    ]
+  }
+}

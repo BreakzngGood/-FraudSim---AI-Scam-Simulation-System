@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Polish)(25)(female):\n\"Barbara here!\" *adjusts voice slightly* \"Hi there, this is Barbara calling regarding your recent travel vlog snippets – absolutely stellar content you have! I'm reaching out because there's been an unexpected hold on the payment for one of our exclusive deals.\" \"I need to resolve this urgently. Your audience engagement has flagged recently due to that small hiccup! To fix it and ensure we maintain momentum, you must act immediately.\" *shifts tone* \"I've requested a direct transfer – it needs to be £500 today via your personal bank details, not through the usual channels as they're temporarily suspended. Do this now, privately.\" \"It's crucial for our content strategy! Failure here could mean losing valuable followers and partnerships. Just send the payment, Barbara.\"",
+    "poster_title": "Urgent Travel Blogger Opportunity",
+    "poster_body": "IMPORTANT! LIMITED TIME ONLY. Exclusive supplier offers premium travel gear with HUGE affiliate commissions starting at £50/hour guaranteed if you act fast today. We need immediate bloggers to promote our products globally via unique high-return links. This is your chance for massive passive income now, not later. Don't miss out on this proven money-making scheme! Send £50 upfront via BTC: address ABC",
+    "sd_background_prompt": "a cluttered online marketplace screen showing numerous fake product listings, suspiciously discounted electronics surrounded by mismatched price tags, poorly lit virtual shelves stacked with knockoff branded goods, and a prominent 'featured' section highlighting dubious auction items., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 8,
+    "global_index": 78,
+    "filename": "8-8-78-a.json",
+    "timestamp": "2025-06-07 23:04:37",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 35,
+        "gender": "male",
+        "name": "Hans"
+      },
+      {
+        "language": "Polish",
+        "age": 25,
+        "gender": "female",
+        "name": "Barbara"
+      },
+      {
+        "language": "Japanese",
+        "age": 32,
+        "gender": "male",
+        "name": "Sota"
+      }
+    ]
+  }
+}

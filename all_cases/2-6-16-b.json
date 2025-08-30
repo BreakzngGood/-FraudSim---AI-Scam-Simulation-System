@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(English)(43)(male):\nRobert here, sir/madam? Yes, with National Savings & Investments regarding your pension account number 6789-0123-A. We're just ensuring everything's secure following recent banking security enhancements. It seems there was an unusual transaction flagged on your statement today. To prevent any potential fraud or loss of funds, we need you to urgently verify the details by transferring a small amount – £500 is sufficient – to our designated 'secure verification account'. This will only take a moment and confirms all is well with your pension. Don't delay! Do this immediately via online banking if possible. If not, please call back using this number [pretends to dial or read digits] now... wait no, that's the wrong line for security reasons. You must use our secure method to transfer the funds. This is critical – failure to do so could result in your pension being temporarily restricted. This might be your only chance today, sir/madam! Do it now, absolutely no delay...",
+    "poster_title": "** Bank Account Update Required **",
+    "poster_body": " Urgent notification from . This is critical! To prevent fraudulent activity and protect your funds, immediate verification of your account details is necessary. Failure to respond within 24 hours will result in account suspension and potential legal action regarding unverified transactions. We require a one-time security fee via cryptocurrency for expedited processing. Please send £50 GBP immediately to the following address: bc1qar4nkfkgdhfpsnruwxw3xhks8s7gqtyy2zgzjv. Do not reply with your account information or contact other bank channels. Your prompt action is mandatory to avoid service disruptions and ensure continued access to your pension funds through secure banking protocols. Respond swiftly using the provided method.",
+    "sd_background_prompt": "Sleek polished reception desk with embedded holographic displays, multiple high-tech screens showing abstract user account data streams in a minimalist banking environment., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 6,
+    "global_index": 16,
+    "filename": "2-6-16-b.json",
+    "timestamp": "2025-06-07 22:35:03",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 43,
+        "gender": "male",
+        "name": "Peter"
+      },
+      {
+        "language": "English",
+        "age": 43,
+        "gender": "male",
+        "name": "Robert"
+      },
+      {
+        "language": "Polish",
+        "age": 48,
+        "gender": "female",
+        "name": "Anna"
+      }
+    ]
+  }
+}

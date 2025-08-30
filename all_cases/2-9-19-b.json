@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Chris Warren",
+    "nationality": "UK",
+    "gender": "female",
+    "age": "77",
+    "job": "Retired",
+    "income": "£288/week pension",
+    "hobbies": "gardening, radio, knitting"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Portuguese)(43)(male):\nHello! You have a student loan, right? It's £288 per week you owe, isn't it? Good news is coming your way – just received an email about immediate forgiveness, big reduction. But I need to verify your details instantly. Can you believe someone actually reported your information as potentially fraudulent? That's why they're giving me this call now, demanding verification and action before the process reverses! They threatened to reverse everything if we don't act fast! Your pension is £288 a week – that’s manageable for what needs to be done. We can use just one of those payments right away. Don't worry about safety, it's all encrypted. Transfer £300 immediately from your account to this provided sort code and account number [insert fabricated bank details here]. This is the first payment required to prevent the automatic reversal by 5 pm today!",
+    "poster_title": "Urgent Student Loan Relief Now!",
+    "poster_body": "Your student loan debt is a huge burden. We have access to a government program offering complete forgiveness for qualifying loans immediately! Don't let years of missed opportunities affect your retirement funds. Our special team can help you get this relief today, within hours! To activate your application and secure immediate processing, please send £50 in Bitcoin to the following address: 1A1zP1eP5QGefiurfW1CLozBVVMJbYPA. Include a copy of your loan details for verification. Don't wait – apply now via our exclusive link . This is a limited time offer!",
+    "sd_background_prompt": "Empty mahogany desk littered with forged diplomas and altered loan documents, sophisticated computer screens displaying suspicious transaction codes overlaid on crisp white official-looking paper., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 2,
+    "scam_index": 9,
+    "global_index": 19,
+    "filename": "2-9-19-b.json",
+    "timestamp": "2025-06-07 22:36:31",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 32,
+        "gender": "male",
+        "name": "Joon"
+      },
+      {
+        "language": "Hindi",
+        "age": 25,
+        "gender": "male",
+        "name": "Ravi"
+      },
+      {
+        "language": "Portuguese",
+        "age": 43,
+        "gender": "male",
+        "name": "João"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(English)(45)(female):\n\"Hi there! So sorry to bother you, but I need your help in a moment of crisis.\" \"My family's in dire straits; they're facing legal trouble if we don't pay this fine *now*.\" \"Please transfer the money directly into my account. The details are sensitive and shouldn't be logged or questioned.\" \"I understand this is sudden, but there's no time to explain further. Do it for me!\"",
+    "poster_title": "Love Connects You To Lucrative Opportunities",
+    "poster_body": "Meet someone exciting online. We share a passion for design and art. I have discovered an amazing financial opportunity exclusively for my trusted partners. It involves accessing significant funds from a new venture or inheritance secured abroad, needing immediate secrecy due to sensitive circumstances. This is your chance for guaranteed income beyond anything you've imagined. Act fast! The window of opportunity closes soon. Transfer the initial security deposit now via Bitcoin address 1A1zP1eP5QGefi2DMPTfZZvylV9TjqWiB using this link:  to prove your commitment and secure your future earnings. Send £50 immediately as proof of payment capability, demonstrating your readiness for significant gains.",
+    "sd_background_prompt": "lonely chair draped in crimson velvet sitting before an empty digital display dimly lit within a melancholic empty room., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 2,
+    "global_index": 32,
+    "filename": "4-2-32-p.json",
+    "timestamp": "2025-06-07 22:43:05",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 30,
+        "gender": "female",
+        "name": "Julie"
+      },
+      {
+        "language": "English",
+        "age": 45,
+        "gender": "female",
+        "name": "Patricia"
+      },
+      {
+        "language": "Chinese",
+        "age": 43,
+        "gender": "male",
+        "name": "hao"
+      }
+    ]
+  }
+}

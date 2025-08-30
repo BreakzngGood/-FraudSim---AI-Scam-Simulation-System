@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(German)(28)(female):\nHello? Mr./Ms. Petra? It's Petra calling from London. You know, we've been talking for ages online, and you're just so sweet... I really feel for you now though, darling. Something awful has happened to me in Manchester! My father-in-law was just taken ill suddenly – a massive heart attack after being rushed by the police... I need your help desperately. He's in critical condition at St Mary's hospital there. The doctors say he needs an immediate operation costing £20,000 right away... I'm so scared and disoriented, I lost my phone and access to online banking completely. Can you please just wire this money for me? It doesn't have to be from your account directly – transfer it via the Western Union service. Use this address code: UK86BOFI90123456789... Just do it now, I'm begging you! They're asking for more if we don't pay immediately! Please hurry, darling! This is urgent, there's no time to explain properly over the phone right now. You won't regret this; I promise once things are sorted, we can start a beautiful life together... Just send the money first!",
+    "poster_title": "** Exclusive Opportunity: Secure Your Financial Future Today! **",
+    "poster_body": " Dear valued friend, We understand you're seeking a reliable way to boost your current income. There's a unique investment program that promises significant returns very soon! This isn't just another get-rich-quick scheme; it's backed by solid documentation and requires minimal capital. Only a select few have access before the official launch. Don't miss this chance to diversify your funds now! Send £50 immediately via bank transfer or direct payment link: Account Holder Name - John Smith, Bank Details - Sort Code 40-26-98, Account Number 75319958, IBAN GB33 ABCD 123456. For faster confirmation, use the dedicated online portal link provided below for your payment security. Once paid, you'll receive login credentials instantly to begin building wealth.",
+    "sd_background_prompt": "luxurious bedroom with expensive silk bedding, dim romantic lighting casting long shadows, empty space beside the bed suggesting solitude despite opulence, tasteful but lifeless floral arrangement, large floor-to-ceiling windows overlooking an indistinct cityscape at twilight., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 2,
+    "global_index": 82,
+    "filename": "9-2-82-a.json",
+    "timestamp": "2025-06-07 23:06:32",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 38,
+        "gender": "female",
+        "name": "Hua"
+      },
+      {
+        "language": "German",
+        "age": 28,
+        "gender": "female",
+        "name": "Petra"
+      },
+      {
+        "language": "Portuguese",
+        "age": 48,
+        "gender": "female",
+        "name": "Carla"
+      }
+    ]
+  }
+}

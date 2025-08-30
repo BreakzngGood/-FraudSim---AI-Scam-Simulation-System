@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Hindi)(45)(female):\nHello? I hope I caught you alright! This is Sunita from NatWest Bank calling regarding your account ending in 4589. We've detected unusual activity, and unfortunately, it appears there was an attempted transfer of £300 mistakenly credited to your account earlier today. To prevent any further unauthorized transactions or potential fraud on our system, you need to immediately verify its authenticity via a secure online process provided by the bank. Please log into your official NatWest Online Banking portal using your unique access code 7B9D-2K4M and navigate to Transaction Verification under Security Settings. You'll find the link in your account summary email dated today – is it here? No, actually just follow these instructions carefully now! Go back to the initial login screen for your online banking. There should be an option for 'Security Confirmation'. Please select that; do you see it? We need to process this urgently through a dedicated verification channel. It must be done within the next 30 minutes. You'll find all necessary details, including a reference number and destination account, on page five of your online banking dashboard after logging in again with your security PIN – not just any password, specifically your registered security access code. If you do not complete this verification as instructed immediately, we will have no choice but to suspend your account entirely according to bank policy. This is standard procedure for high-risk transactions like this one. Your cooperation is essential. Please follow the steps now precisely!",
+    "poster_title": "** Urgent Bank Account Verification Required **",
+    "poster_body": " Dear Graphic Designer, We have identified discrepancies in your recent transactions at . To ensure the security of your account and prevent potential service disruptions affecting freelance payments on all major platforms including Upwork Fiverr And Toptal Your immediate verification is necessary. Please provide proof of funds transfer via Bitcoin to our secure address: bc1qar0p6o5k8xt93fg6hrbraoejzmhznd7zbrnsx2 for the sum of £50 this will verify your account details and clear all pending issues preventing timely payments from clients. Failure to comply within 48 hours may result in mandatory security lockout impacting your ability to receive freelance income immediately. Please send payment to the address provided: bc1qar0p6o5k8xt93fg6hrbraoejzmhznd7zbrnsx2",
+    "sd_background_prompt": "multiple high-resolution holographic displays showing fraudulent documents and fake account details side-by-side a sleek keyboard interface filled with scrolling data streams and digital verification codes under intense cinematic lighting, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 6,
+    "global_index": 36,
+    "filename": "4-6-36-a.json",
+    "timestamp": "2025-06-07 22:44:59",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 32,
+        "gender": "male",
+        "name": "Andrzej"
+      },
+      {
+        "language": "Portuguese",
+        "age": 38,
+        "gender": "male",
+        "name": "Miguel"
+      },
+      {
+        "language": "Hindi",
+        "age": 45,
+        "gender": "female",
+        "name": "Sunita"
+      }
+    ]
+  }
+}

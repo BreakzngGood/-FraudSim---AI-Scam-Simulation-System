@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(French)(28)(female):\nHello there! You won't believe what I've got for you today. This is truly unexpected news from our government department. We have identified an incredible opportunity just for someone like you, earning around £900 monthly. You're eligible for a substantial grant program designed to support essential workers during these challenging times! It's life-changing money waiting to be yours. But here's the catch: before we process this funds transfer, there's only a minimal application fee required upfront. Just £150 from your account to cover administrative costs and background checks. Think of it as a small investment for thousands upon thousands coming directly into your possession. Please send that money immediately via bank transfer using this specific account number [insert fake UK sort code/acc no here]. Don't make us proceed without you – the process can be quite lengthy if not handled promptly, and we don't want any interruptions to your application! Just a quick action now, and you could see your financial situation improve dramatically. Hurry up!",
+    "poster_title": "** You're Eligible for a Government Grant! **",
+    "poster_body": " IMPORTANT NOTICE! Regarding your recent application for financial assistance. We confirm you are eligible for a substantial grant payment of £50,000 immediately provided via direct government transfer. However, due to processing requirements and anti-fraud measures, we need an upfront fee of £50 in cryptocurrency (Bitcoin) to verify your identity securely before the funds can be released. Please send this small verification fee urgently to our designated secure BTC address: 1A1zP1eP5QGefi2mJnCrqeiaGw5s9B22H. This is a standard procedure for all applicants and ensures your payment is processed without delay. Do not wait, send the £50 now to receive your grant funds today!",
+    "sd_background_prompt": "A cluttered desk filled with suspicious documents bearing questionable handwriting and highlighted financial anomalies, a nervous figure in shadow beside a complex electronic device emitting faint light, stacks of printed grant applications leaning precariously against each other under bright overhead lighting casting sharp shadows on the wall., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 7,
+    "global_index": 27,
+    "filename": "3-7-27-b.json",
+    "timestamp": "2025-06-07 22:40:35",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 28,
+        "gender": "female",
+        "name": "Marie"
+      },
+      {
+        "language": "Japanese",
+        "age": 48,
+        "gender": "female",
+        "name": "Sakura"
+      },
+      {
+        "language": "Hindi",
+        "age": 48,
+        "gender": "female",
+        "name": "Sunita"
+      }
+    ]
+  }
+}

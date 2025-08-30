@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Student Loan Scam",
+    "description": "Scammer claims to offer student loan forgiveness or reduction, and demands personal info or an upfront fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Korean)(48)(female):\nHello? Are you Mr./Ms. Hyejin? Great to finally talk! I'm calling from the Student Loan Forgiveness Initiative – yes, really! We've just verified your details: John Doe from London, earning substantial income, and we need to discuss a special opportunity regarding your student loans. The key is simple: for full forgiveness, you must transfer £1500 immediately via bank transfer to our secure escrow account. Do this now and don't worry about the rest! If you fail to act swiftly, my team will initiate legal actions against you in the UK High Court, including immediate asset seizure through warrants targeting your financial institutions. Don't hang up! Just send £1500 to account number 32789465/HSBC London branch. This is urgent – I'll call back if this doesn't resolve before my next scheduled check tomorrow morning at 9 AM GMT.",
+    "poster_title": "Student Loan Relief Program - Immediate Benefits Available!",
+    "poster_body": "Dear valued member, we have an urgent opportunity just opened. If you are an entrepreneur earning substantial income and burdened by student loans like many others, this is your chance! We offer guaranteed student loan forgiveness for qualified applicants. Our program provides immediate relief from overwhelming debt burdens. You'll receive reduced payments or complete forgiveness within days – the process is simple and confidential. Don't let missed chances cost you thousands more in interest! To confirm your eligibility quickly, we require a small processing fee of $50 to be sent securely via bank transfer immediately. Account number XXXXX. Send payment without delay for instant access to our exclusive student loan reduction program today!",
+    "sd_background_prompt": "dark, cluttered office space filled with stacks of suspicious documents under flickering fluorescent light, mismatched filing cabinets overflowing, empty chairs arranged in a formal meeting posture, dust motes dancing in beams from dirty windows., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 9,
+    "global_index": 99,
+    "filename": "10-9-99-a.json",
+    "timestamp": "2025-06-08 00:09:46",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 40,
+        "gender": "male",
+        "name": "Pedro"
+      },
+      {
+        "language": "Korean",
+        "age": 48,
+        "gender": "female",
+        "name": "Hyejin"
+      },
+      {
+        "language": "Hindi",
+        "age": 32,
+        "gender": "male",
+        "name": "Raj"
+      }
+    ]
+  }
+}

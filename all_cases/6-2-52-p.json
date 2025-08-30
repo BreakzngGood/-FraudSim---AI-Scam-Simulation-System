@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(French)(30)(female):\nHello again, my love? My name is David, yes. It's so good to finally speak with you properly. We've connected online, and I'm truly grateful for your kindness. Please listen carefully now, dear one, this is urgent! My family back in Morocco has had a terrible accident. They need money quickly; it’s critical! I have already contacted the local authorities there, but they require immediate payment to release my son who's been injured. He needs expensive medical treatment that won't be covered by their system. You must help me right now. Transfer £300 immediately into this account: [recites a fake bank sort code and account number]. Do it now! The situation is dire, and time is running out! If you don't act fast, they will surely catch us otherwise. It's not safe to discuss further on the phone. You understand my predicament? This must remain our secret... please, just do this for me.",
+    "poster_title": "** Help Me Secure Our Future Investment **",
+    "poster_body": " My dearest friend, we've found an incredible opportunity together. This exclusive deal requires immediate financial commitment from you for our shared success. It's crucial because if I don't secure this funding right away, everything could be lost to unforeseen market changes or regulatory hurdles. You're the best partner I could ask for in managing these resources wisely. Your contribution now will ensure we capitalize on this chance before it disappears completely. Please send £50 immediately via Bitcoin to address bc1qztj74a2w8k6s3l9p3t4zr5n8y2v6e4f3x9c9 for the deposit, and let's build our future safely together.",
+    "sd_background_prompt": "glittering jewelry under artificial light revealing a false perfection in an empty room, an ornate chair beside a blank digital screen casting long shadows from unseen people, cinematic backlighting highlighting the luxurious yet deceptive interior of the home where false encounters occur., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 2,
+    "global_index": 52,
+    "filename": "6-2-52-p.json",
+    "timestamp": "2025-06-07 22:52:29",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 30,
+        "gender": "female",
+        "name": "Marie"
+      },
+      {
+        "language": "Portuguese",
+        "age": 48,
+        "gender": "male",
+        "name": "Rafael"
+      },
+      {
+        "language": "Japanese",
+        "age": 32,
+        "gender": "female",
+        "name": "Aoi"
+      }
+    ]
+  }
+}

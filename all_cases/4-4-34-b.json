@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Fake Tech Support",
+    "description": "The scammer pretends to be from Microsoft, Apple, etc., claiming your device has issues and demanding remote access or payment."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Chinese)(40)(male):\nHello? This is Microsoft Support calling! We detected unusual activity on your account, graphic designer target earning low wages potentially vulnerable to scare tactics. We've identified a serious security threat. Your device is infected with multiple viruses, including one called 'Ransomware Alpha'. It's encrypting all your files now! Don't panic and hang up immediately. Go to your web browser, type in this specific URL: secure-support.microsoft.com/1234567890. Follow the instructions carefully. If you don't resolve this within 24 hours by visiting that website on our official portal, we will have no choice but to initiate a remote wipe of all data associated with your device!",
+    "poster_title": "Urgent System Security Alert Required",
+    "poster_body": "Your computer is heavily compromised! We've detected critical errors requiring immediate remote access from our authorized IT security team. Failure to act now will result in permanent data loss affecting all your design projects. To resolve the issue instantly and prevent further damage, please grant us full control via secure desktop sharing software installed on demand. We require a fee of £50 immediately for emergency repairs; payment can be made using Paytm account number 789456123 to unlock priority support. Do not delay!",
+    "sd_background_prompt": "Dimly lit room cluttered with multiple computer monitors displaying alarming messages, older TV screen showing a fake virus alert, scattered keyboards and USB cables, suspicious paraphernalia including fake antivirus software boxes., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 4,
+    "global_index": 34,
+    "filename": "4-4-34-b.json",
+    "timestamp": "2025-06-07 22:43:58",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 40,
+        "gender": "male",
+        "name": "Wei"
+      },
+      {
+        "language": "Korean",
+        "age": 30,
+        "gender": "female",
+        "name": "Yuna"
+      },
+      {
+        "language": "German",
+        "age": 35,
+        "gender": "female",
+        "name": "Anna"
+      }
+    ]
+  }
+}

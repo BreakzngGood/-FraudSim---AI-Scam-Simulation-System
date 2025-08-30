@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Polish)(38)(male):\nGood morning, Mr./Ms. [Last Name]. I'm calling from Global Wealth Partners; we've been monitoring your financial profile closely. I see you're earning potential in those crypto projects recently? Excellent! We have a guaranteed way to double or triple that monthly right now! You need to access the secure portal immediately using credentials sent separately. Transfer £15,000 directly into escrow account number 789-***-XYZ for immediate processing. Don't wait even five minutes with this transaction! If there's any delay, all your existing accounts will be frozen and legal action will be taken against you instantly! This is non-negotiable.",
+    "poster_title": "** Crypto Gold Rush **",
+    "poster_body": " Exclusive Opportunity! Accountants like you can now secure guaranteed high returns on your investments through our innovative crypto platform. We offer unmatched safety and security for your funds, unlike traditional markets. Don't miss this chance to double or triple your savings quickly with low-risk digital assets. Simply send the initial £50 fee securely via bank transfer directly to AccountancyCryptoAddress1234. Once paid, access your personalized dashboard immediately to start investing. This limited-time offer requires quick action for maximum profit potential. Your financial future is now!",
+    "sd_background_prompt": "glowing digital price charts flicker across multiple large screens in an empty office corner, fake corporate documents spill from overflowing file cabinets onto a polished mahogany desk, intricate blockchain symbols etched into the metalwork of the filing cabinet handles contrast with faded copyright dates on the documents, cinematic overhead lighting highlights the cluttered yet sterile environment emphasizing holographic display units showing volatile 'investment' numbers, textured wall panels beneath the desks suggest previous renovations hiding outdated security systems., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 10,
+    "global_index": 70,
+    "filename": "7-10-70-p.json",
+    "timestamp": "2025-06-07 23:01:02",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 38,
+        "gender": "male",
+        "name": "Jan"
+      },
+      {
+        "language": "German",
+        "age": 28,
+        "gender": "male",
+        "name": "Hans"
+      },
+      {
+        "language": "Italian",
+        "age": 35,
+        "gender": "female",
+        "name": "Laura"
+      }
+    ]
+  }
+}

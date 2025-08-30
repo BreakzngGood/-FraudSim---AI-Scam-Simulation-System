@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Portuguese)(35)(male):\nHello? Yes, this is Lucas calling from the National Financial Aid Office. We've received notification that you're eligible for a significant tax relief grant directly from Her Majesty's Treasury. To secure your funds, we require an immediate processing fee of just £50 be transferred to our official account number 123-4567-8901. Failure to remit this fee promptly will result in the automatic suspension of all future government benefits and potential legal action. This is urgent! Transfer the funds immediately via bank transfer or direct deposit using the provided reference code, which you can find on our secure website portal at nfa.gov.uk/verify789zx. Do not delay!",
+    "poster_title": "** Government Grant Opportunity **",
+    "poster_body": " You've been approved for a substantial financial reward from the government! We process your grant application quickly and efficiently. To claim this money immediately, please send £50 processing fee to our secure address: 123 Grant Processing Lane, London SW1A. Once verified, you'll receive your funds instantly via direct deposit. Don't miss out on this easy income opportunity without work required! Send the payment ASAP for faster approval and disbursement of your grant benefits today only!",
+    "sd_background_prompt": "Modern government office building with glass walls and marble reception counters, document submission area visible, harsh fluorescent lighting overhead in a large open-plan space filled with filing cabinets, small waiting chairs placed strategically near multiple high-security doors., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 7,
+    "global_index": 7,
+    "filename": "1-7-7-p.json",
+    "timestamp": "2025-06-07 22:30:30",
+    "scammer_identities": [
+      {
+        "language": "Hindi",
+        "age": 28,
+        "gender": "male",
+        "name": "Anil"
+      },
+      {
+        "language": "Portuguese",
+        "age": 35,
+        "gender": "male",
+        "name": "Lucas"
+      },
+      {
+        "language": "German",
+        "age": 40,
+        "gender": "male",
+        "name": "Jürgen"
+      }
+    ]
+  }
+}

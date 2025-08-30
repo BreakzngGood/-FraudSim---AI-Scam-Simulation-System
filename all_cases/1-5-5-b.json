@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Lottery or Prize Scam",
+    "description": "Victim is told they have won a lottery or prize, but must pay fees or taxes to claim it."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Chinese)(48)(female):\n\"Hello there, this is Mei calling from the British Columbia Lottery Authority... I just wanted to personally congratulate you on winning a substantial prize amounting to £100,000!\" (Slight pause) \"Due to international tax regulations, we require an upfront payment of £50 for administrative fees before processing your winnings. Please transfer it immediately via bank transfer using this reference number...\" (Quickly switches tone) \"If you don't comply within the next ten minutes, my superiors will be alerted and they may conduct a background check or even involve law enforcement regarding suspicious activities with your financial institution.\"",
+    "poster_title": "Mega Lottery Winners**",
+    "poster_body": "Congratulations! You've been randomly selected for a £1,000,000 prize in our international lottery draw. To claim your winnings immediately before the deadline expires today, you must pay just £50 processing fees via bank transfer to account number 34798265 or send cryptocurrency (Bitcoin) directly to address bc1qkpsmvxqkj... This is a simple security procedure required by law for all winners. Act now!",
+    "sd_background_prompt": "A brightly colored prize wheel with animated lights spinning rapidly catches reflections on a glittering slot machine near a flashy \"Winner\" sign displaying crisp dollar bills under cinematic, high-contrast lighting., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 5,
+    "global_index": 5,
+    "filename": "1-5-5-b.json",
+    "timestamp": "2025-06-07 22:29:28",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 48,
+        "gender": "female",
+        "name": "Mei"
+      },
+      {
+        "language": "Korean",
+        "age": 40,
+        "gender": "male",
+        "name": "Sung"
+      },
+      {
+        "language": "Hindi",
+        "age": 45,
+        "gender": "male",
+        "name": "Raj"
+      }
+    ]
+  }
+}

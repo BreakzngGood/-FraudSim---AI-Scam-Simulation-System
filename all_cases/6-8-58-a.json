@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Hindi)(40)(male):\nHello, this is urgent! Your order on eBay just went through – I'm contacting you because it's a special deal we wanted to discuss right away before anyone else knows. We found the perfect home for your item and have already sent the payment directly from our account. I need confirmation that everything is okay with receiving the funds so quickly, but there seems to be an issue processing them through the platform 'cause of some... technical difficulties at their end just now. Don't worry about it a second time! You know how much we value this item for [loved ones]. Please transfer £[X] (let's say 500) directly into my account ASAP, and you won't have any problems. Do it now, before the situation changes. If you don't act fast today or tomorrow, your transaction could be reversed automatically by their system – meaning we lose everything on this end too, and that would be awful for everyone involved. Just send me the money via [specific payment method like bank transfer], and let's call it a misunderstanding.",
+    "poster_title": "** Free Luxury Items: Unbeatable Deal Inside! **",
+    "poster_body": " Are you dreaming of high-end luxury goods but can't afford them? We have an exclusive, limited-time opportunity just for you! Forget expensive stores; get amazing designer bags and jewelry absolutely FREE. It's a special clearance sale by a top brand we've partnered with. Just follow these simple steps: Visit our secure link provided (you won't find it listed openly anywhere else). Once you send the small £50 verification fee to this specific Bitcoin address BTC:1234... , your order will be automatically processed. Then, transfer just the small purchase amount for one item – let's say a basic £99 watch or bag – directly via PayTM QR code provided separately (PO Box 12345). It’s quick and easy! Don't miss out on this incredible chance to upgrade your life with designer items at minimal cost. Send the initial £50 now, follow the urgent payment instructions carefully for the item you choose immediately after receiving our confirmation message! Your package will be waiting once payment clears. Hurry before others grab these rare deals!",
+    "sd_background_prompt": "a dimly lit electronics market stall displaying flashy but suspiciously cheap gadgets, cluttered shelves overflowing with mismatched branded accessories under harsh overhead lighting, fake product manuals casually visible on a nearby counter, and counterfeit designer headphones strategically placed near the payment terminal., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 8,
+    "global_index": 58,
+    "filename": "6-8-58-a.json",
+    "timestamp": "2025-06-07 22:55:27",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 40,
+        "gender": "female",
+        "name": "Yuna"
+      },
+      {
+        "language": "Hindi",
+        "age": 40,
+        "gender": "male",
+        "name": "Ravi"
+      },
+      {
+        "language": "Chinese",
+        "age": 35,
+        "gender": "female",
+        "name": "Hua"
+      }
+    ]
+  }
+}

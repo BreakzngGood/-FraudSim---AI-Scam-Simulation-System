@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Ahmed Khalil",
+    "nationality": "Egypt",
+    "gender": "male",
+    "age": "35",
+    "job": "Food delivery rider",
+    "income": "£900/month",
+    "hobbies": "gaming, fitness, tech news"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(English)(45)(female):\nHello? You're speaking with Linda. Is Mom or Dad home? It's really urgent! I need them right now, bad news just came through, something serious is happening at the hospital. They asked me to get this money straight from you guys. Listen closely, transfer £900 immediately, it has to be quick cash. Use account number 123-4567890 and sort code 90-123-45, got it? Don't delay or anyone gets hurt!",
+    "poster_title": "** Urgent Help Needed **",
+    "poster_body": " Hey Grandma, its your grandson calling from the hospital. I got in a bad accident, hit my head really hard, can barely talk right now. The doctor said it's serious and we need money fast for emergency treatment to keep me stable until help arrives. It's an urgent situation, please don't hang up. You gotta send money ASAP so I can get out okay. My phone is messed up bad, call the number on my bike somewhere near London, make it quick. We need cash now, sent securely using Bitcoin directly for complete privacy and safety from police or anyone else asking questions later about why no details were given at all just simple payment needed immediately to avoid serious trouble entirely please help right away send £50 fast if you love me call back soon.",
+    "sd_background_prompt": "Cozy, dimly lit living room with worn floral carpet, an elderly man sitting alone near large windows showing faded family photos on the wall beside a simple wooden desk., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 3,
+    "scam_index": 3,
+    "global_index": 23,
+    "filename": "3-3-23-b.json",
+    "timestamp": "2025-06-07 22:38:35",
+    "scammer_identities": [
+      {
+        "language": "English",
+        "age": 45,
+        "gender": "female",
+        "name": "Linda"
+      },
+      {
+        "language": "Chinese",
+        "age": 28,
+        "gender": "male",
+        "name": "Lei"
+      },
+      {
+        "language": "Portuguese",
+        "age": 48,
+        "gender": "male",
+        "name": "Lucas"
+      }
+    ]
+  }
+}

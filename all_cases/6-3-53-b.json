@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Amina Yusuf",
+    "nationality": "Kenya",
+    "gender": "female",
+    "age": "60",
+    "job": "Homemaker",
+    "income": "£0",
+    "hobbies": "church, storytelling, cooking"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Korean)(35)(male):\n\"Grandpa? It’s your son, but I’m in jail. Mom, I need you to send money fast.\" Pause briefly. \"They arrested me for something serious. I got hurt bad in an accident yesterday.\" \"Quickly now, Grandma! You have to trust me. Your grandson is bleeding here, barely holding on in the emergency room. They won’t let him leave until this is sorted.\" \"Go *directly* to your bank and transfer £1000 right away from your savings account. Use my phone number: 079...42. Don't ask questions! Do it now!\" \"The officers there? They’ll help me if you just send the money first. If they see I’m not getting any, this whole thing falls apart!\"",
+    "poster_title": "** Grandchild in Emergency **",
+    "poster_body": " Hello, I'm your grandson David calling from Spain. Something urgent happened; my friend was badly injured in a car accident near the border. We're stuck here temporarily, need money fast for basic needs and travel expenses. You must wire money immediately to help us. Send £50 right away via Bitcoin to address  BTC so we can get back quickly. I'll call you when things settle down. Please act fast!",
+    "sd_background_prompt": "A cluttered home office desk with a computer monitor displaying scammer details, an open envelope implying money transfer, a telephone connected to the fraud app, keys resting near suggesting urgency, and a family photo prominently placed for emotional manipulation., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 6,
+    "scam_index": 3,
+    "global_index": 53,
+    "filename": "6-3-53-b.json",
+    "timestamp": "2025-06-07 22:53:03",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 30,
+        "gender": "female",
+        "name": "Magdalena"
+      },
+      {
+        "language": "Korean",
+        "age": 35,
+        "gender": "male",
+        "name": "Hyun"
+      },
+      {
+        "language": "Italian",
+        "age": 48,
+        "gender": "male",
+        "name": "Paolo"
+      }
+    ]
+  }
+}

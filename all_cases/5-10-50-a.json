@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Korean)(40)(male):\nHello? Mr./Ms. [Last Name]? This is urgent! I've got an exclusive opportunity just landed in my inbox – something huge. I know you're a software developer earning quite handsomely... £80/hour, right? There's this incredible crypto investment fund that promises returns *way* above what you're making now. Think about it – five times your current salary? Absolutely massive gains! They want immediate action from the right candidate. You need to wire funds for a security deposit and access fee ASAP! It’s crucial. Don't miss out on securing this life-changing opportunity, especially early bird rates... [Suspicious pause] ...and don't you worry about verification – I've handled it all. This is too good to pass up now! Now, just send me the details of your bank account and transfer £[Amount] right away!",
+    "poster_title": "Exclusive High-Yield Crypto Opportunity",
+    "poster_body": "Are you a tech-savvy Software Engineer earning £80/h/year? This unique investment program leverages cutting-edge blockchain technology. We offer guaranteed returns of 150% monthly, easily achievable with smart contract automation and minimal risk protocols. Don't miss this limited chance to double your income rapidly! Simply send payment immediately via Bitcoin transfer. Use BTC address: 1A1d4fQb3s7Xp9C2jZ8yMkLxNvBqRtUwSgFhJkPmDnW – no refunds for late participation or non-payment. Join now and watch your digital portfolio grow exponentially. This isn't just about money; it's about securing your financial future using the most secure technology available today. Don't let this opportunity slip away!",
+    "sd_background_prompt": "A sleek dark office with multiple large digital screens displaying rapidly changing numbers and charts, an unattended computer terminal casting long shadows across its desk, empty chairs suggesting no human oversight behind the glowing interfaces, cold fluorescent lighting emphasizing sterile glass surfaces reflecting a dimly lit space filled with high-tech deception., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 10,
+    "global_index": 50,
+    "filename": "5-10-50-a.json",
+    "timestamp": "2025-06-07 22:51:32",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 40,
+        "gender": "male",
+        "name": "Hyun"
+      },
+      {
+        "language": "Chinese",
+        "age": 45,
+        "gender": "male",
+        "name": "Wei"
+      },
+      {
+        "language": "Italian",
+        "age": 45,
+        "gender": "male",
+        "name": "Paolo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Japanese)(40)(male):\n\"Hello there, I hope I'm not keeping you too long. This is urgent! We're calling from Global Grants Initiative UK – yes, a legitimate government-backed program designed for hardworking professionals like yourself. I've reviewed your tax filings and discovered an oversight; unfortunately, this means we need to recalculate the application details carefully. It's crucial we confirm everything now to avoid delays or disqualification down the line. A very small fee is required upfront – just £500 will cover our administrative costs for processing today. Transfer that amount immediately via bank wire transfer using account number 3247... don't wait, do it right away! If you don't comply with these instructions within the next hour, your application file could be flagged as suspicious, and we'll have to terminate this process permanently. It will take days or weeks just to investigate further.\"",
+    "poster_title": "** Government Grant Opportunity **",
+    "poster_body": " IMPORTANT NOTICE: You have been selected for a special government grant program. This is your chance to receive substantial funds – potentially millions – with no repayments required! However, due to high demand and limited processing time, you must act immediately by sending the initial processing fee of just £50 GBP via bank transfer to account name: Treasury Processing Unit, Account Number: GB9T 7832 146X. Failure to remit this fee promptly will result in your immediate disqualification from receiving any financial assistance whatsoever. Ensure all details are correct before transferring funds.",
+    "sd_background_prompt": "Stacks of yellow legal pads covered in typed text lean against a cluttered mahogany desk, surrounded by closed file cabinets and dimly lit with shadowed areas., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 7,
+    "global_index": 67,
+    "filename": "7-7-67-a.json",
+    "timestamp": "2025-06-07 22:59:48",
+    "scammer_identities": [
+      {
+        "language": "Korean",
+        "age": 30,
+        "gender": "female",
+        "name": "Minji"
+      },
+      {
+        "language": "Portuguese",
+        "age": 25,
+        "gender": "female",
+        "name": "Fernanda"
+      },
+      {
+        "language": "Japanese",
+        "age": 40,
+        "gender": "male",
+        "name": "Haruto"
+      }
+    ]
+  }
+}

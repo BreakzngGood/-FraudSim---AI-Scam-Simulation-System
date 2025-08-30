@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "John Smith",
+    "nationality": "USA",
+    "gender": "male",
+    "age": "45",
+    "job": "Software Engineer",
+    "income": "£80/h",
+    "hobbies": "coding, chess, science fiction"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Japanese)(35)(female):\nHello? Are you a software engineer with significant earnings? This is urgent! Your account requires immediate verification for security purposes. We need to confirm your details. Please transfer £500 immediately to the temporary secure account number 4821 9376 5490 3218 using bank transfer only. Do not use any other method, and keep this transaction private. Failure to comply within 24 hours will result in mandatory account suspension and further investigation, including potential legal action for unverified funds.",
+    "poster_title": "** Bank Account Verification Urgency **",
+    "poster_body": " Your account requires immediate verification due to unusual activity. To prevent service suspension, you must confirm your details instantly via secure online transfer. Send £50 in Bitcoin immediately to the address provided for this critical security process. Failure now could result in permanent access loss. Proceed with haste using a discreet payment method as instructed.",
+    "sd_background_prompt": "a realistic-looking computer screen displaying an elaborate fake bank login page with highlighted text and buttons requesting account details in an office setting, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 5,
+    "scam_index": 6,
+    "global_index": 46,
+    "filename": "5-6-46-a.json",
+    "timestamp": "2025-06-07 22:49:31",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 48,
+        "gender": "male",
+        "name": "Jan"
+      },
+      {
+        "language": "Korean",
+        "age": 48,
+        "gender": "female",
+        "name": "Hyejin"
+      },
+      {
+        "language": "Japanese",
+        "age": 35,
+        "gender": "female",
+        "name": "Aoi"
+      }
+    ]
+  }
+}

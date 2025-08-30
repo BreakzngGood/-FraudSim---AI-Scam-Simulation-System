@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Polish)(32)(female):\nHello there! You're earning potential here, aren't you? That £22 an hour could be so much more if invested wisely... into our exclusive crypto project! Just send us your KYC documents now for verification. Once confirmed, we'll wire the first installment within minutes – guaranteed double your money digitally already! But if you don't comply *immediately*, there will be consequences! We won't hesitate to involve authorities and have all your assets confiscated permanently. Hurry up, transfer those funds right away!",
+    "poster_title": "URGENT Last Chance Crypto Bonus",
+    "poster_body": "Did you know your Graphic Design Skills are now paid directly in top-secret 'Crypto'? Join the exclusive launch today and instantly receive 10x your normal earnings! This isn't another boring job review, it's a completely new system where value is finally recognized digitally. But be quick - only 5 limited slots remain available globally to access this revolutionary payment program starting Friday! Send £50 immediately via bank transfer or Bitcoin (address: bc1qar...gpt) to secure your position and unlock the first bonus payout now.",
+    "sd_background_prompt": "a room filled with large digital crypto price screens reflecting rapidly flashing green and red numbers against dark backgrounds, walls lined with expensive fake gold chains hanging from hooks visible at eye level, one side of a cluttered desk displays stacks of crisp new bills arranged into impossibly high pyramids suggesting unrealistic returns while the other side holds multiple clear plastic wallets labeled 'BITCOIN' and 'ETHEREUM', a single large, realistic-looking hard drive is prominently displayed open to reveal rows of meticulously organized cryptocurrency files on its internal surface under focused studio lighting highlighting every glossy edge., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 10,
+    "global_index": 40,
+    "filename": "4-10-40-a.json",
+    "timestamp": "2025-06-07 22:46:45",
+    "scammer_identities": [
+      {
+        "language": "Portuguese",
+        "age": 38,
+        "gender": "female",
+        "name": "Maria"
+      },
+      {
+        "language": "Korean",
+        "age": 30,
+        "gender": "female",
+        "name": "Minji"
+      },
+      {
+        "language": "Polish",
+        "age": 32,
+        "gender": "female",
+        "name": "Magdalena"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Italian)(35)(male):\nHello? Yes, hello! This is Immigration Services calling regarding your visa status here in [Country]. We must speak immediately. I understand you might be retired now, Mr./Ms. Luca, but unfortunately, there's a serious issue with the documentation we received for your recent residency application update. It appears to contain discrepancies that need urgent attention. They've flagged it as potentially fraudulent. If they don't see the necessary correction within 24 hours via our secure system, the consequences could be severe. They are reviewing all cases today and may initiate deportation procedures at any moment if not resolved immediately. Do you understand? We must act quickly to rectify this situation before it's too late for your family! Please transfer £1500 GBP directly into account number 329-874-651 with the bank [Fake Bank Name]. Do this *now*, and keep it confidential. This is a direct payment needed immediately, so please proceed without delay to avoid immediate action. Do you understand? We must act quickly to rectify this situation before it's too late for your family! Please transfer £1500 GBP directly into account number 329-874-651 with the bank [Fake Bank Name]. Do this *now*, and keep it confidential. This is a direct payment needed immediately, so please proceed without delay to avoid immediate action.",
+    "poster_title": "** Urgent Action Required: Immediate Payment to Resolve Your Immigration Status **",
+    "poster_body": " This is a critical notice regarding your residency status, Mr./Ms. Igor Petrov. We have identified significant irregularities in your visa application history. Your current legal standing is unstable and requires immediate correction to avoid mandatory deportation under section 45 of the Immigration Act. Failure to rectify this within the next 24 hours will result in the cancellation of all pending appeals and enforcement action being initiated immediately. We offer a simple, direct solution: pay a processing fee of £100 via Western Union transfer to our designated account  at . This payment is necessary for us to expedite your case urgently. Do not wait or attempt any other procedures; this is the only way to guarantee you remain in the country legally and avoid immediate removal. Send this money without delay to secure your future here. Your cooperation now prevents serious legal consequences later.",
+    "sd_background_prompt": "A pristine white consulting office with expensive dark wood desks and harsh overhead fluorescent lighting reflecting off the tall windows., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 1,
+    "global_index": 81,
+    "filename": "9-1-81-p.json",
+    "timestamp": "2025-06-07 23:06:04",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 32,
+        "gender": "male",
+        "name": "Giovanni"
+      },
+      {
+        "language": "Polish",
+        "age": 30,
+        "gender": "female",
+        "name": "Magdalena"
+      },
+      {
+        "language": "Italian",
+        "age": 35,
+        "gender": "male",
+        "name": "Luca"
+      }
+    ]
+  }
+}

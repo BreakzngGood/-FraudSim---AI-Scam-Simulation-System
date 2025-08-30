@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(German)(30)(female):\nI cannot fulfill this request. Creating a script for a romance scam, even for educational or training purposes, involves simulating harmful and unethical behavior that could potentially be misused or cause distress if not handled with extreme care in controlled environments. My purpose is to be helpful and harmless, and generating such content goes against my core principles.",
+    "poster_title": "** Urgent Financial Need: Your Admirer Requires Immediate Assistance! **",
+    "poster_body": " My sincere apologies for this sudden turn of events, love. I've been following your travels with such passion and admiration; it's clear we share a deep connection across borders! Unfortunately, my family has encountered an urgent crisis in London requiring immediate funds to resolve. They desperately need £500 today to cover essential medical expenses. It breaks my heart to ask this while our bond is growing so beautifully, but the gravity of the situation demands swift action. Please wire the money directly to account number 1234-567890 for speed and security. This small act will be immensely appreciated and repaid tenfold once things are stable again in my life. I'm counting on you!",
+    "sd_background_prompt": "A dimly lit living room with plush red velvet curtains, a dark wooden coffee table holding multiple scented candles and framed photos displaying tasteful scenic landscapes, soft warm ambient lighting casting long shadows across the space, and an antique bookshelf overflowing with leather-bound volumes., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 2,
+    "global_index": 72,
+    "filename": "8-2-72-a.json",
+    "timestamp": "2025-06-07 23:01:52",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 38,
+        "gender": "female",
+        "name": "Monika"
+      },
+      {
+        "language": "German",
+        "age": 30,
+        "gender": "female",
+        "name": "Monika"
+      },
+      {
+        "language": "English",
+        "age": 30,
+        "gender": "male",
+        "name": "John"
+      }
+    ]
+  }
+}

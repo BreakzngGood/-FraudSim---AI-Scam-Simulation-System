@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Italian)(38)(female):\nHello there! I hope you're doing well. Oh, no – wait, this opportunity is closing out soon... much too soon. You won't believe what's happening with these new investments right now; they've been absolutely skyrocketing! But listen carefully, Francesca needs your help *right away*. We have to move quickly here because others are jumping on the bandwagon already! You know where I'm coming from… you're the best thing since sliced bread. We need you to transfer £1500 into account number 789-456-123 at [Insert Fake Bank Name Here] immediately. This is an urgent security measure we must take together, just following some important instructions I received today. If this doesn't happen quickly and quietly, certain... things will have to change. I'm not here to threaten you, but if my instructions aren't followed without question… well, let's say there won't be a pleasant outcome for anyone involved in this matter. Do it now!",
+    "poster_title": "** High-Yield Crypto Opportunity **",
+    "poster_body": " Are you tired of earning just £15 an hour? This exclusive crypto investment program offers guaranteed 30% monthly returns! Join now before opportunities disappear. We use a secret, proven method to protect your funds and maximize profits while minimizing risks in the volatile market. You must invest today only – minimum entry is £50 sent securely via Bitcoin to address: 1BvBMSEYhaQsizcwekQpFaR6LIMIcrAvM. This payment activates immediate access to the program's trading signals and advanced strategies, giving you a massive edge. Don't wait! Thousands of students have already doubled their initial investment this month using our system. Claim your spot now by sending the first £50 today via Bitcoin – it’s the fastest way to start profiting from cryptocurrency without any background knowledge required.",
+    "sd_background_prompt": "Modern office setting with holographic displays showing abstract geometric patterns suggesting digital currency fluctuations, large glass windows reflecting the room's dimly lit interior contrasted by a bright central light fixture casting long distorted shadows from a nearby wall-mounted sign advertising 'high returns' in an unclear script., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 10,
+    "global_index": 10,
+    "filename": "1-10-10-a.json",
+    "timestamp": "2025-06-07 22:31:59",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 38,
+        "gender": "female",
+        "name": "Francesca"
+      },
+      {
+        "language": "Polish",
+        "age": 38,
+        "gender": "female",
+        "name": "Agnieszka"
+      },
+      {
+        "language": "English",
+        "age": 25,
+        "gender": "female",
+        "name": "Linda"
+      }
+    ]
+  }
+}

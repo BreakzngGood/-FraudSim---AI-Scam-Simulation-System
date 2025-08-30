@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Bank Account Verification Scam",
+    "description": "Scammer poses as a bank official asking the victim to verify accounts or transfer money to a 'secure' account."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Polish)(28)(male):\n\"Good day, sir, I represent HM Treasury regarding your suspicious transaction pending verification.\" \"Sir, we need immediate confirmation on the funds held in account number 937-581-462. Failure to verify risks permanent suspension of all financial services and legal penalties.\" \"You're correct about needing action now! Please transfer £10,000 immediately from your personal account directly into this secure escrow account: sort code 309981277, account number 543216789. Do so without delay to prevent account closure and further investigation.\"",
+    "poster_title": "Urgent Account Verification Needed",
+    "poster_body": "We must verify your account details immediately due to a security alert system activation. This is crucial for maintaining uninterrupted access and ensuring all transactions remain secure. To prevent service disruption, please confirm your personal information using the exclusive link provided in this message. Your prompt action is required now. Furthermore, by completing this verification swiftly via our special online portal before 5 PM today, you will unlock enhanced financial services features designed to protect your business interests more effectively than ever before. Once confirmed, we require a one-time security deposit of £50 converted into BTC for your new account status to be fully activated and operational. Send the exact amount (no change allowed) using our designated secure transfer method directly to the specified Bitcoin address provided through the portal system after login confirmation: 1A1zP1eP5QGefi2DMPT8Vo6CYGe1CpG6Wv This process is standard procedure for all accounts. Failure to verify within this timeframe may result in temporary suspension of your business operations until resolution, impacting customer access and pending financial activities significantly. Please act without delay by accessing the secure portal using the unique code sent separately via encrypted channel earlier today.",
+    "sd_background_prompt": "Large screen displaying fraudulent account verification request, multiple high-resolution ID cards printed on glossy paper spread across a sleek desk surface under fluorescent lighting, small stack of counterfeit bank statements visible beside one card, another monitor showing fake government watermark patterns magnified for detail, shadowy figures reflected in the computer screen casting faint outlines in the background., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 6,
+    "global_index": 96,
+    "filename": "10-6-96-a.json",
+    "timestamp": "2025-06-08 00:08:26",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 38,
+        "gender": "male",
+        "name": "Jan"
+      },
+      {
+        "language": "Polish",
+        "age": 28,
+        "gender": "male",
+        "name": "Piotr"
+      },
+      {
+        "language": "Hindi",
+        "age": 30,
+        "gender": "female",
+        "name": "Anita"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Maria González",
+    "nationality": "Spain",
+    "gender": "female",
+    "age": "28",
+    "job": "Graphic Designer",
+    "income": "£22/h",
+    "hobbies": "photography, fashion, anime"
+  },
+  "scam": {
+    "type": "Online Marketplace Scam",
+    "description": "Scammer lures the victim with fake product listings or buyer messages, and requests payment outside the platform."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(French)(40)(female):\nAlright, hello? Is this graphic designer Isabelle? Great! You're exactly who we need! Listen, quickly now. There's a time-sensitive issue on one of the major platforms you frequent. Someone has reported suspicious activity concerning your recent projects – very serious charges are being flagged against you. They claim massive amounts were lost through fake transactions involving digital assets. They insist they must recover their funds immediately via bank transfer directly to them, not through the platform system. This is urgent! You have to do this now to prevent a permanent lockout of all your accounts and future work opportunities on those sites! I need you to log into your bank account right away. Transfer £600 GBP to account number 418392756 with reference code 'Urgent Platform Recovery'. Failure to act immediately will result in severe consequences – including immediate suspension of all freelance accounts and potential legal troubles down the line. Make this transfer now!",
+    "poster_title": "Urgent Graphic Design Opportunity Now!",
+    "poster_body": "High-Demand Projects! Top Clients Need Your Skills Today. Prove your worth with immediate freelance wins earning over £20/hr easily. Special introductory offer from a major agency client requires quick action to secure this lucrative chance now. Submit your best portfolio quickly for review and get hired fast! Don't miss out on securing this amazing new opportunity right away. Send payment of £50 immediately via Bitcoin address 1BvBMSEYstWetqTFn52NJg9PVmv to confirm your participation and access the projects now.",
+    "sd_background_prompt": "Shelves stacked precariously with mismatched counterfeit luxury goods near mislabeled high-value electronics under dim, suspicious lighting, a prominent \"wholesale\" sign casts long shadows across digital price screens displaying inflated costs., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 4,
+    "scam_index": 8,
+    "global_index": 38,
+    "filename": "4-8-38-b.json",
+    "timestamp": "2025-06-07 22:45:51",
+    "scammer_identities": [
+      {
+        "language": "French",
+        "age": 25,
+        "gender": "male",
+        "name": "Louis"
+      },
+      {
+        "language": "French",
+        "age": 40,
+        "gender": "female",
+        "name": "Isabelle"
+      },
+      {
+        "language": "French",
+        "age": 45,
+        "gender": "female",
+        "name": "Marie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Polish)(43)(female):\n\"Wojtek?\" *pause* \"It's me, Kasia. Your son Wojtek is calling from Spain.\" Hurry, Agnieszka! He's badly injured in a car accident – immediate surgery needed! We're at the hospital now, but your pension card won't work here. You must get money fast! \"Mom? Honey? I need it so urgent!\" *sigh sharply* \"They already took his phone... he needs you to wire cash directly. Just send £500 immediately to account 378-912-465.\" Why not just give him your savings card in person? No, absolutely nothing! It's blocked by police – they're checking IDs everywhere. You have until the end of this call or he'll be declared dead! Transfer now via online banking! If you don't, Wojtek will disappear forever. Just do it!",
+    "poster_title": "** URGENT FAMILY EMERGENCY REQUIRES IMMEDIATE HELP **",
+    "poster_body": " Police have detained me! It's bad, really bad. My car was involved in a terrible accident yesterday near Manchester Airport. I'm hurt and need money fast for bail or medical treatment down there at the hospital. Dad, it's an emergency with my cousin who lives near you too. Please send help now if you value our family. Use your phone to wire £50 urgently via bank transfer to sort this out ASAP before they find me.",
+    "sd_background_prompt": "A dimly lit apartment room filled with clutter and dust motes dancing in the sunlight, a ringing telephone on a chaotic desk amidst messy papers, someone nervously pacing near a window casting long shadows during an afternoon lull, a crumpled financial document half-hidden under a photograph by a flickering lampshade., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 3,
+    "global_index": 83,
+    "filename": "9-3-83-a.json",
+    "timestamp": "2025-06-08 00:17:49",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 45,
+        "gender": "male",
+        "name": "Paolo"
+      },
+      {
+        "language": "Polish",
+        "age": 43,
+        "gender": "female",
+        "name": "Agnieszka"
+      },
+      {
+        "language": "English",
+        "age": 40,
+        "gender": "female",
+        "name": "Patricia"
+      }
+    ]
+  }
+}

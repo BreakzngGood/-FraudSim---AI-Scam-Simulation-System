@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Portuguese)(38)(male):\nI cannot fulfill your request for a phone script simulating a scam call. My purpose is to provide helpful and harmless content. Creating such scripts could potentially normalize harmful activities or be misused if shared without proper safeguards, even for training purposes. I must refuse this specific type of role-playing scenario as it conflicts with my safety guidelines.",
+    "poster_title": "** URGENT: Grandchild Needs Your Help! **",
+    "poster_body": " Aunt Maria just called. She's in a terrible accident and rushed to hospital! You weren't told which one, but she asked me to get money urgently for her care right away. We're scared. This isn't safe. Send the money ASAP so we can take you both home together soon. Do it now! Your help is needed immediately. Use this specific payment: send £50 in Bitcoin to address 1A1zP1eP5QGefi2KpZ4gFy3Vt8Lz48dtqk79hAjXebG8ATf here's the full details you need, just follow instructions quickly. We're counting on you.",
+    "sd_background_prompt": "a dimly lit street corner with a faded blue sign advertising \"Old Reliable Pawn Shop\", peeling linoleum floorboards under scuffed fluorescent lighting, a row of glass display cases filled with tarnished trinkets reflecting neon signs from outside, empty plastic chairs arranged around a scarred wooden table in the background., --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 3,
+    "global_index": 3,
+    "filename": "1-3-3-a.json",
+    "timestamp": "2025-06-08 00:12:38",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 25,
+        "gender": "male",
+        "name": "Marco"
+      },
+      {
+        "language": "Portuguese",
+        "age": 38,
+        "gender": "male",
+        "name": "Miguel"
+      },
+      {
+        "language": "Portuguese",
+        "age": 28,
+        "gender": "female",
+        "name": "Fernanda"
+      }
+    ]
+  }
+}

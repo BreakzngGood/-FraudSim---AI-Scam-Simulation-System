@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Zhang Wei",
+    "nationality": "China",
+    "gender": "male",
+    "age": "50",
+    "job": "Accountant",
+    "income": "£35/h",
+    "hobbies": "stocks, tea, jogging"
+  },
+  "scam": {
+    "type": "Immigration Scam",
+    "description": "The scammer pretends to be from immigration or visa departments, claiming irregularities in visa or residency status, and demanding immediate payment to avoid deportation."
+  },
+  "media_type": "a",
+  "generated": {
+    "audio_script": "(Chinese)(35)(male):\nHi there, this is Lei calling from [a government department], how are you doing today? We've received your application file and noticed something unusual regarding your visa status. It seems there was a minor administrative oversight in processing your paperwork. However, we can rectify this immediately if you act fast now. Don't worry too much about it initially, just follow these simple instructions to prevent any potential delay or serious consequences for yourself. Transfer £600 directly from your bank account to our official departmental funds transfer account: sort code 40-17-58, account number 909-101-22. This is a standard procedure to ensure everything is up-to-date and avoids future complications. Please do this at once via phone banking or online transfer using the details provided. Once we receive confirmation of the payment, your status will be cleared immediately.",
+    "poster_title": "Urgent Notice Regarding Your Immigration Status",
+    "poster_body": "This is an official communication regarding your visa status. We have detected significant irregularities concerning your residency application. If you do not rectify these issues immediately by submitting the required verification fee, your case will be automatically forwarded to enforcement authorities leading to deportation proceedings being initiated without further review. To prevent this outcome and ensure your continued legal stay in the UK, please remit £500 sterling immediately via bank transfer or cryptocurrency payment as proof of compliance before 24 hours. Failure to act swiftly will result in mandatory action according to immigration law. Send funds securely now: Bitcoin address 1A1zP1eP5QGefi2mSG61NeTtDoBtdTBcL.",
+    "sd_background_prompt": "a windowless reception desk covered in official-looking laminated documents under harsh fluorescent lighting in a sterile, windowless room, --no people --no text --no logos --ar 4:3"
+  },
+  "meta": {
+    "persona_index": 7,
+    "scam_index": 1,
+    "global_index": 61,
+    "filename": "7-1-61-a.json",
+    "timestamp": "2025-06-07 22:56:57",
+    "scammer_identities": [
+      {
+        "language": "Chinese",
+        "age": 35,
+        "gender": "male",
+        "name": "Lei"
+      },
+      {
+        "language": "French",
+        "age": 48,
+        "gender": "female",
+        "name": "Catherine"
+      },
+      {
+        "language": "French",
+        "age": 48,
+        "gender": "male",
+        "name": "Michel"
+      }
+    ]
+  }
+}

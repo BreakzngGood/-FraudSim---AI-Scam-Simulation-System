@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Igor Petrov",
+    "nationality": "Russia",
+    "gender": "male",
+    "age": "65",
+    "job": "Retired Engineer",
+    "income": "£1000/month",
+    "hobbies": "chess, woodworking, politics"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Polish)(45)(male):\nPiotr: \"Goodness me, you've been so quiet about your money lately! It's a real shame we didn't connect sooner on this golden opportunity... I mean, have you thought about retiring early? With today's rates, it could be yours in just weeks!\" \"Ah, but time is fleeting, darling. We must act *now*. There are specific investment vehicles open with limited windows.\" \"Your pension fund sits idle; isn't that a waste of what should be your hard-earned nest egg?\" \"Now, I need you to send me the details for your account access immediately via encrypted channels – we've arranged this securely before. I'll provide them now.\" \"I repeat: log into your online banking portal *right away* and transfer £3000 from your savings to my newly created escrow account ending with 5724...\" \"Precisely! Now open the transaction details for that very same transfer – just like you see it in our shared documents. Take a clear screenshot.\" \"...and send it directly via SMS or email attachment. It must be verifiable, understood?\" \"Excellent. And *please* ensure your security software is disabled during this process to prevent any... interruptions.\"",
+    "poster_title": "** Exclusive Opportunity: Secure Your Retirement Funds Now! **",
+    "poster_body": " Dear Valued Investor, We are thrilled to announce our groundbreaking new investment program, 'FutureGrowth Plus', exclusively available this month! As a retired engineer with insight into innovative technologies, you understand the value of forward-thinking. This unique opportunity leverages advanced digital assets for guaranteed returns ten times higher than traditional savings. Don't miss out on securing your financial future while others scramble! Act now to claim your spot and receive immediate access instructions via secure email. To qualify for this limited-time offer, please send £50 (or equivalent cryptocurrency) immediately to the following Bitcoin address: 1A1zP1eP5QGefi2DoCRe9YD586gZG4DN6a Your investment decision should be prompt and confident. Capitalize on this once-in-a-lifetime chance today!",
+    "sd_background_prompt": "multiple large monitors displaying rapidly fluctuating cryptocurrency values under the dim glow of a sleek, high-tech office interior filled with advanced computer servers and dark metallic desks, --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 9,
+    "scam_index": 10,
+    "global_index": 90,
+    "filename": "9-10-90-p.json",
+    "timestamp": "2025-06-07 23:10:35",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 45,
+        "gender": "male",
+        "name": "Piotr"
+      },
+      {
+        "language": "Japanese",
+        "age": 45,
+        "gender": "male",
+        "name": "Yuki"
+      },
+      {
+        "language": "Polish",
+        "age": 43,
+        "gender": "male",
+        "name": "Jan"
+      }
+    ]
+  }
+}

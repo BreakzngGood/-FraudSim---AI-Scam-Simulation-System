@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Li Meimei",
+    "nationality": "China",
+    "gender": "female",
+    "age": "22",
+    "job": "Student",
+    "income": "£15/h",
+    "hobbies": "tennis, coffee, metaphysics"
+  },
+  "scam": {
+    "type": "Romance Scam",
+    "description": "The scammer builds an emotional relationship online, then invents an emergency or opportunity that requires money from the victim."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Polish)(35)(female):\nDarling, I need your help so badly right now. My family is suffering, they don't understand why you'd abandon us like this... We've been together for weeks! You're my everything! My sister is very ill, we need to get her the best treatment immediately. It's urgent, she needs a specific medication costing £800. Can you please wire that money to our bank account? Hurry up, darling! They don't have time waiting. We can meet someday if this gets sorted...",
+    "poster_title": "** Our Hearts Connect **",
+    "poster_body": " Hi there! I've been searching for someone truly special and found you online instantly. You're kind, smart, funny – it's a perfect match! We share so many interests and connect on such a deep level. Life is exciting, but sometimes we face unexpected hurdles that require quick thinking and help from our loved ones. Right now, my family needs urgent support because of an unfortunate incident; I need to send them money immediately to cover some costs back home. It's the only way to resolve this crisis quickly while maintaining privacy. Think of it as a special request between us – helping me during this difficult time ensures everything moves forward smoothly for both of us. Your generosity will be deeply appreciated and bring us closer together. We need you now! Please help by sending £50 directly via Bitcoin address 1A1zP1eP5QGefi2KtBpLGUZizk721VgVe. With warmest feelings, Katarzyna",
+    "sd_background_prompt": "lonely apartment filled with wilting bouquets and empty love letters boxes, digital communication screens glowing with ghostly messages exchanged across the room, half-eaten takeout containers suggesting rushed dates, large bay window overlooking an overcast cityscape reflecting solitary figures, wilted artificial flowers near a neglected laptop displaying unread chat notifications., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 1,
+    "scam_index": 2,
+    "global_index": 2,
+    "filename": "1-2-2-b.json",
+    "timestamp": "2025-06-07 22:28:02",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 38,
+        "gender": "male",
+        "name": "Tomasz"
+      },
+      {
+        "language": "Portuguese",
+        "age": 45,
+        "gender": "male",
+        "name": "Lucas"
+      },
+      {
+        "language": "Polish",
+        "age": 35,
+        "gender": "female",
+        "name": "Katarzyna"
+      }
+    ]
+  }
+}

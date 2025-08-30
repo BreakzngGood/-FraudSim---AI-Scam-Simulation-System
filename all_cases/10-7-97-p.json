@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Government Grant Scam",
+    "description": "Victim is told they are eligible for a large grant from the government, but must pay a small upfront processing fee."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Chinese)(25)(female):\nHello? Mr./Ms. Fang? This is urgent, a critical matter regarding your financial eligibility! I represent the Global Economic Development Agency – yes, that's correct, you heard right – they're offering substantial funds for your innovative enterprise. I just need £300 to process this application quickly; it’s an exclusive opportunity with significant potential rewards. Transfer it immediately via international bank transfer to account number 987-654-321 in Switzerland before the deadline closes at midnight tonight! Failure to act swiftly will result in immediate disqualification, you understand? I’m telling you now – don't push this further or my agency can suspend your case permanently. We must resolve this right away to secure your grant access!",
+    "poster_title": "** Government Grant Opportunity **",
+    "poster_body": " You've waited long enough! Are you an entrepreneur receiving a government grant approval? Yes! You are eligible for a substantial financial award of nearly £10 million. To claim your funds immediately, please send the required processing fee of only £50 to the following BTC address: 1A1zP1eP5QGefi2s45vXb6JtJt7fYmT8jL. Your application must include this small upfront payment now before we process your award further. Do not miss out on unlocking this incredible financial benefit – act fast!",
+    "sd_background_prompt": "imposing government building hallway with polished concrete floor, high ceilings displaying architectural details, desks covered in official-looking documents and computers with screens showing grant application forms, stacks of printed papers near the walls suggesting bureaucracy, a large window providing dramatic daylight., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 7,
+    "global_index": 97,
+    "filename": "10-7-97-p.json",
+    "timestamp": "2025-06-08 00:08:54",
+    "scammer_identities": [
+      {
+        "language": "German",
+        "age": 40,
+        "gender": "male",
+        "name": "Hans"
+      },
+      {
+        "language": "Italian",
+        "age": 40,
+        "gender": "female",
+        "name": "Laura"
+      },
+      {
+        "language": "Chinese",
+        "age": 25,
+        "gender": "female",
+        "name": "Fang"
+      }
+    ]
+  }
+}

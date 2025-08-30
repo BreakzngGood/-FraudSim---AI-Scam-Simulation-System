@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Emily Brown",
+    "nationality": "Australia",
+    "gender": "female",
+    "age": "31",
+    "job": "Travel Blogger",
+    "income": "£25/h",
+    "hobbies": "hiking, photography, coffee"
+  },
+  "scam": {
+    "type": "Grandparent Scam",
+    "description": "The scammer impersonates a relative (often a grandchild) in distress, asking the elderly victim for urgent financial help."
+  },
+  "media_type": "p",
+  "generated": {
+    "audio_script": "(Hindi)(32)(male):\nHi Grandma, it's me, your grandson Alex. Oh God, honey, you won't believe what happened! My whole family is scattered – Dad in London, Mom in Dubai, and I'm stuck all alone somewhere else entirely right now. That's why this call matters so much. I've gotten into a *huge* mess here. We're deep underground near some old warehouse district just off the main road. There are people everywhere watching us! Please listen carefully! You gotta get that money out NOW, transfer it straight to my account… quick like a flash, or they'll find us both and everything will be over. Look at your phone – you can see who's calling right now? No, don't call back! I need the cash, *real* cash for me and my friends stuck up here. It’s in the safe box where you keep all the important things… go get it and give it to me via bank transfer immediately! Don’t wait a second – hurry up before they see us on your phone screen or worse, hear this call!",
+    "poster_title": "** Urgent Family Emergency Call **",
+    "poster_body": " Hello Mom/Dad? It's me, Sarah. Your dad/great-aunt just got hurt in a car accident far away! I'm scared and rushed to the hospital right now with him/her. There’s no time to explain everything, but you MUST send money immediately for emergency medical care at St. Mary's Hospital near London. We need it NOW, maybe £500? Use your usual bank transfer method or pay online directly via card details provided over the phone if possible – I can't wait!",
+    "sd_background_prompt": "A close-up on a slightly weathered dark wooden desk displaying an antique framed photo of a smiling elderly couple beside a modern smartphone showing static in the corner with no dial tone visible, under dim overhead lighting casting long shadows across paper money stacks and old clutter., --no people --no text --no logos --ar 9:16"
+  },
+  "meta": {
+    "persona_index": 8,
+    "scam_index": 3,
+    "global_index": 2,
+    "filename": "8-3-2-p.json",
+    "timestamp": "2025-06-07 22:24:00",
+    "scammer_identities": [
+      {
+        "language": "Polish",
+        "age": 32,
+        "gender": "male",
+        "name": "Tomasz"
+      },
+      {
+        "language": "English",
+        "age": 38,
+        "gender": "female",
+        "name": "Patricia"
+      },
+      {
+        "language": "Hindi",
+        "age": 32,
+        "gender": "male",
+        "name": "Anil"
+      }
+    ]
+  }
+}

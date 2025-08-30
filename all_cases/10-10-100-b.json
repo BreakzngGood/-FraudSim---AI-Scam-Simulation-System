@@ -1,0 +1,49 @@
+{
+  "persona": {
+    "name": "Fatima Al-Mansouri",
+    "nationality": "UAE",
+    "gender": "female",
+    "age": "40",
+    "job": "Entrepreneur",
+    "income": "£120/h",
+    "hobbies": "luxury travel, wellness, interior design"
+  },
+  "scam": {
+    "type": "Crypto Investment Scam",
+    "description": "Scammer promises high returns from cryptocurrency investments, but steals the victim's money or keys."
+  },
+  "media_type": "b",
+  "generated": {
+    "audio_script": "(Italian)(25)(female):\nHello? Yes! Thank you for taking this call. I've been following your ventures closely; impressive growth potential there! Look, I have a *real* opportunity, confidential, but with massive returns if you act fast. I need to establish trust quickly through these transactions. Send £100 now via the link provided in my quick text message – it's urgent! This is just an initial security deposit for our exclusive deal. This needs immediate action; don't delay or we lose this window. Ensure your bank transfer goes directly into [specific fake account number - actor must provide dynamically] upon receiving that confirmation code. Once you send the money, I'll confirm everything and share the exact payment details securely through encrypted channels only *we* know about. Do it now!",
+    "poster_title": "** Exponential Wealth Through Cryptocurrency **",
+    "poster_body": " Discover the secret path to unimaginable riches! This exclusive crypto investment opportunity offers unprecedented returns, potentially doubling your net worth monthly. Don't wait – time is money in this fast-evolving market. To secure your spot and access the limited launch details, send £50 immediately via Bitcoin transfer to address bc1qk2txmh... instantly receive our premium roadmap and private entry link. Invest now before competitors snatch up these opportunities!",
+    "sd_background_prompt": "glowing holographic screens display shimmering digital assets against a backdrop of sleek metallic surfaces with subtle misaligned seams, ambient lighting casts sharp reflections on polished floors under the scrutiny of multiple discreet high-tech cameras and an oversized pristine logo., --no people --no text --no logos --ar 16:9"
+  },
+  "meta": {
+    "persona_index": 10,
+    "scam_index": 10,
+    "global_index": 100,
+    "filename": "10-10-100-b.json",
+    "timestamp": "2025-06-08 00:10:11",
+    "scammer_identities": [
+      {
+        "language": "Italian",
+        "age": 25,
+        "gender": "female",
+        "name": "Giulia"
+      },
+      {
+        "language": "Korean",
+        "age": 30,
+        "gender": "female",
+        "name": "Hyejin"
+      },
+      {
+        "language": "Italian",
+        "age": 25,
+        "gender": "female",
+        "name": "Anna"
+      }
+    ]
+  }
+}
